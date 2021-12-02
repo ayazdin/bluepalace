@@ -1,0 +1,2 @@
+[26-Jan-2016 20:08:29 UTC] PHP Fatal error:  Call to undefined function did_action() in /home/contempothemes/public_html/wp-real-estate-7/multi-demo/wp-content/themes/realestate-7/admin/plugins/class-tgm-plugin-activation.php on line 1915
+[26-Jan-2016 20:08:57 UTC] PHP Fatal error:  Call to undefined function did_action() in /home/contempothemes/public_html/wp-real-estate-7/multi-demo/wp-content/themes/realestate-7/admin/plugins/class-tgm-plugin-activation.php on line 1915

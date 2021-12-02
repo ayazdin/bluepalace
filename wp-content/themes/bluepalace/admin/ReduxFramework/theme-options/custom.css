@@ -1,0 +1,6 @@
+ul#ct_home_layout_disabled h3,
+ul#ct_home_adv_search_fields_disabled h3 { color: #aaa;}
+ul#ct_home_layout_enabled h3,
+ul#ct_home_adv_search_fields_enabled h3 { color: #79b402;}
+
+.redux-notice-field { padding: 12px; background: #f1fbbb;}

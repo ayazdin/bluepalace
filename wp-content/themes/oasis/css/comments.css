@@ -1,0 +1,82 @@
+/*
+* Comments
+* 
+* @package WP Pro Real Estate 7
+* @subpackage CSS
+*/
+
+/** Threaded Comments
+==============================================================================*/
+
+#comments-template { margin: 0 0 30px 0;}
+.comments-wrap { overflow: hidden; padding: 60px 0 0 0; border-top: 1px solid #d5d9dd;}
+	#page .comments-wrap { border-top: none;}
+
+/** Comment Headers
+==============================================================================*/
+
+#comments-number { padding: 10px 0 20px 0 !important;}
+	#comments-number, #reply-title, .comments-header { margin: 0; text-transform: uppercase;}
+
+/* Comments */
+#comments {	padding: 8px 0 0;}
+	
+/* Comment pagination. */
+.comments-nav {	float: right; line-height: 29px; margin: 10px 20px;}
+	.comments-nav .page-numbers { font-size: 10px; text-transform: uppercase; color: #777; margin-right: 10px;}
+		.comments-nav .prev { display: inline-block; height: 29px; width: 29px; margin-left: 10px;}
+		.comments-nav .next { display: inline-block; height: 29px; width: 29px; margin-left: 10px;}
+
+/** Comment List
+==============================================================================*/
+
+	ol.comment-list { margin: 1px 1px 60px 1px;}	
+		.comment-list li { position: relative; padding: 50px 0 50px 0; border-bottom: 1px solid #d5d9dd; list-style-type: none;}
+			.comment-list li.comment-author-admin {	}
+			.comment-list li.bypostauthor {}
+			.comment-list ul.children {}
+			.comment-list li li { border-bottom: none;}
+			.comment-wrap {	overflow: hidden;}
+			.children li { margin-bottom: 0px !important;}
+				.children li:last-child { padding-bottom: 0;}
+	
+			.comment-list li .comment-body { }
+				.comment-list li li .comment-body { padding-left: 40px; }
+					.comment-list li li li .comment-body { padding-left: 60px; }
+						.comment-list li li li li .comment-body { padding-left: 80px; }
+							.comment-list li li li li li .comment-body { padding-left: 100px; }
+								.comment-list li li li li li li .comment-body { padding-left: 120px; }
+									.comment-list li li li li li li li .comment-body { padding-left: 140px; }
+										.comment-list li li li li li li li li .comment-body { padding-left: 160px; }
+											.comment-list li li li li li li li li li .comment-body { padding-left: 180px; }
+												.comment-list li li li li li li li li li li .comment-body { padding-left: 200px; }
+			
+			.comment-list li .comment-body { position: relative; padding-bottom: 20px;}		
+				ol.comment-list .avatar { float: left; margin: 0 30px 80px 0; height: 100px; width: 100px; border-radius: 50px;}
+					.comment-meta { font-family: "Lato", sans-serif; position: absolute; right: 0; top: 14px;}
+						.comment-meta a { color: #555;}
+					.comment-author { clear: both;}
+					.comment-author cite { display: inline-block; margin: 14px 0 15px 0; font-family: 'Montserrat', 'sans-serif'; font-size: 18px; font-style: normal; font-weight: 700; color: #555; text-transform: uppercase;}
+					.comment-author .says { display: none;}
+						.pingback .reply { display: none;}		
+				.comment-body p { color: #555; font-weight: 300; margin: 0 0 30px 0;}
+				.comment-list .reply {}
+
+/** Respond
+==============================================================================*/
+
+	#respond {}
+		h3#reply-title { font-size: 21px;}
+		#reply-title small a { float: right; margin: 0 20px 0 0; padding: 0 10px;}
+		.logged-in-as { margin-bottom: 20px !important; font-size: 12px; border:  1px solid #d5d9dd; border-radius: 3px; padding: 5px 15px; background: #efefef; color: #555;}
+		.comment-awaiting-moderation { font-size: 12px; border: 1px solid #ccc; border-radius: 3px; padding: 4px 8px;}
+		p.comment-notes { display: none;}
+		#respond form { padding: 20px 0;}
+			#respond label {}
+			#commentform .required { display: none;}
+			#respond p { margin: 0;}
+			#respond textarea, #respond input[type="text"], #respond input[type="email"], #respond input[type="url"] {}
+				#respond textarea {	font-family: Arial, Helvetica, sans-serif; font-size: 12px; width: 87%;}
+				#respond input[type="text"]:focus, #respond input[type="email"]:focus, #respond input[type="url"]:focus, #respond textarea:focus {}
+			p.form-allowed-tags { display: none;}
+				p.form-allowed-tags code { margin-top: 10px;}

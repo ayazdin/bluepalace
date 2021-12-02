@@ -1,0 +1,45 @@
+/*
+* Post Print
+* 
+* @package WP Pro Real Estate 7
+* @subpackage CSS
+*/
+
+@import url("../css/base.css");
+
+-webkit-print-color-adjust: exact;
+
+body { font-family: Georgia, "Times New Roman", Times, serif; font-size: 9pt; line-height: 11pt; color: #000; background: #fff !important; background-image: none !important;}
+#container { width: auto; border: 0; margin: 5%; padding: 20px 0 0 0; float: none !important;}
+#topbar-wrap, #header-wrap, #tools, #listing-attachments, #listing-reviews, .listing-nearby, #listing-virtual-tour, .listing-agent-contact .social, #overlay, .sub-listings, #modal, #title-header, article figure, #sidebar, .videoplayer, iframe, article nav, nav, #logo, #tagline, .breadcrumbs, #single-header, .video, #slider, #carousel, .post-social, .comments-num, .category, .agent-contact, .tags, .flexslider, #listing-tools, #comments-template, footer, #footer-widgets { display: none !important;}
+
+#sitename-for-print-only { display: block; font-weight: 500; margin: 20px 0 30px 0; padding: 10px 0 10px 0; text-align: center; background: #f4f4f4 !important; text-transform: uppercase; letter-spacing: 1px;}
+
+.lead-image { margin: 20px 0 30px 0;}
+#first-image-for-print-only { display: inline-block !important; float: left; width: 30%; float: left; margin: 3% 3% 2% 0;}
+
+.single-listings .listing-location .snipe { float: none; margin: 0 0 8px 0;}
+.listing-location { margin: 30px 0 20px 0; }
+	.single-listings #logo { display: block; margin: 0;}
+	.price { margin-bottom: 10px; line-height: 11pt;}
+	.propinfo { font-size: 9pt; margin: 20px 0 0 0; padding: 0 0 0 0; border-bottom: 1px solid #dfdfdf;}
+		.propinfo li { display: inline-block; margin-right: 10px; margin-bottom: 0; padding-right: 10px; border-right: 1px solid #ccc;}
+			.propinfo li .right { padding: 0 0 0 5px;}
+	.post-content p { margin-top: 20px; line-height: 18pt;}
+	article figure {}
+	.single-listings .fa-check-circle { margin-right: 10px;}
+	.single-listings h6 { float: left;}
+	.propfeatures { float: left; font-size: 10pt; margin-right: 20px;}
+		.propfeatures li { line-height: 16pt; margin: 0;}
+	#location { display: none;}
+	.agent-info li { display: block; font-size: 9pt;}
+	.agent-info li .left { float: none;}
+	.agent-info li .right { float: none;}
+	.agent-info li.row { border-bottom: 1px solid #d5d9dd;}
+
+
+.article-content { width: 100%; clear: both;}
+h1, h2 { line-height: normal; margin: 0;}
+p { font-size: 11pt;}
+a { color: #000; text-decoration: none;}
+p a:after {	content: " ("attr(href)") "; font-size: 10pt;}

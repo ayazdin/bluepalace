@@ -1,0 +1,4981 @@
+# Loco Gettext template
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Pro Real Estate 7\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-01 13:17-0700\n"
+"POT-Revision-Date: Wed Jul 27 2016 08:19:42 GMT-0700 (PDT)\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Chris Robinson <chris@contempographicdesign.com>\n"
+"Language-Team: Contempo <chris@contempographicdesign.com>\n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: includes\n"
+"X-Poedit-SearchPath-2: layouts\n"
+"X-Poedit-SearchPath-3: 404.php\n"
+"X-Poedit-SearchPath-4: archive.php\n"
+"X-Poedit-SearchPath-5: author.php\n"
+"X-Poedit-SearchPath-6: comments.php\n"
+"X-Poedit-SearchPath-7: content.php\n"
+"X-Poedit-SearchPath-8: footer.php\n"
+"X-Poedit-SearchPath-9: functions.php\n"
+"X-Poedit-SearchPath-10: header.php\n"
+"X-Poedit-SearchPath-11: index.php\n"
+"X-Poedit-SearchPath-12: page.php\n"
+"X-Poedit-SearchPath-13: rtl.css\n"
+"X-Poedit-SearchPath-14: search-listings.php\n"
+"X-Poedit-SearchPath-15: searchform.php\n"
+"X-Poedit-SearchPath-16: sidebar.php\n"
+"X-Poedit-SearchPath-17: single-listings.php\n"
+"X-Poedit-SearchPath-18: single.php\n"
+"X-Poedit-SearchPath-19: template-agents.php\n"
+"X-Poedit-SearchPath-20: template-big-map.php\n"
+"X-Poedit-SearchPath-21: template-contact.php\n"
+"X-Poedit-SearchPath-22: template-demo-home-map.php\n"
+"X-Poedit-SearchPath-23: template-dsidxpress.php\n"
+"X-Poedit-SearchPath-24: template-edit-listing.php\n"
+"X-Poedit-SearchPath-25: template-edit-profile.php\n"
+"X-Poedit-SearchPath-26: template-favorite-listings.php\n"
+"X-Poedit-SearchPath-27: template-full-width.php\n"
+"X-Poedit-SearchPath-28: template-home.php\n"
+"X-Poedit-SearchPath-29: template-left-sidebar.php\n"
+"X-Poedit-SearchPath-30: template-sitemap.php\n"
+"X-Poedit-SearchPath-31: template-submit-listing.php\n"
+"X-Poedit-SearchPath-32: template-testimonials.php\n"
+"X-Poedit-SearchPath-33: template-view-listings.php\n"
+"X-Poedit-SearchPath-34: admin/ct-child-theme\n"
+"X-Poedit-SearchPath-35: admin/profile-fields.php\n"
+"X-Poedit-SearchPath-36: admin/theme-functions.php\n"
+"X-Poedit-SearchPathExcluded-0: admin/ReduxFramework\n"
+"X-Poedit-SearchPathExcluded-1: admin/aq-resizer\n"
+"X-Poedit-SearchPathExcluded-2: admin/plugins\n"
+"X-Poedit-SearchPathExcluded-3: js\n"
+"X-Poedit-SearchPathExcluded-4: css\n"
+"X-Poedit-SearchPathExcluded-5: fonts\n"
+"X-Poedit-SearchPathExcluded-6: images\n"
+"X-Poedit-SearchPathExcluded-7: admin/images"
+
+#: ../404.php:15
+msgid "Page Not Found"
+msgstr ""
+
+#: ../404.php:16
+msgid "Woah there! Looks like you've gotten lost."
+msgstr ""
+
+#: ../404.php:17
+msgid "Go back to the homepage"
+msgstr ""
+
+#: ../archive-brokerage.php:37 ../admin/ReduxFramework/theme-options/re7-config.
+#: php:1835
+msgid "Brokerages"
+msgstr ""
+
+#: ../archive-brokerage.php:82 ../author.php:68 ../single-brokerage.php:76 ..
+#: /single-brokerage.php:253 ../template-agents.php:125 ../template-brokerages.
+#: php:97
+msgid "Tell me more about a property"
+msgstr ""
+
+#: ../archive-brokerage.php:83 ../author.php:69 ../single-brokerage.php:77 ..
+#: /single-brokerage.php:254 ../single-listings.php:734 ../template-agents.php:
+#: 126 ../template-brokerages.php:98 ../includes/agent-contact-modal.php:22 ..
+#: /includes/single-listing-home.php:354 ../includes/widgets/ct-widget-
+#: listingscontact.php:31
+msgid "Request a showing"
+msgstr ""
+
+#: ../archive-brokerage.php:84 ../author.php:70 ../single-brokerage.php:78 ..
+#: /single-brokerage.php:255 ../template-agents.php:127 ../template-brokerages.
+#: php:99
+msgid "General Questions"
+msgstr ""
+
+#: ../archive-brokerage.php:87 ../author.php:73 ../single-brokerage.php:81 ..
+#: /single-brokerage.php:258 ../single-listings.php:328 ../single-listings.php:
+#: 737 ../template-agents.php:130 ../template-brokerages.php:102 ../template-edit-
+#: profile.php:120 ..
+#: /admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:710 ..
+#: /includes/agent-contact-modal.php:25 ../includes/agent-contact-modal.php:25 ..
+#: /includes/agent-contact-modal.php:25 ../includes/single-listing-home.php:357 ..
+#: /includes/widgets/ct-widget-listingscontact.php:34 ../includes/widgets/ct-
+#: widget-listingscontact.php:34 ../includes/widgets/ct-widget-listingscontact.
+#: php:34
+msgid "Name"
+msgstr ""
+
+#: ../archive-brokerage.php:89 ../archive-brokerage.php:151 ../author.php:75 ..
+#: /author.php:140 ../single-brokerage.php:83 ../single-brokerage.php:133 ..
+#: /single-brokerage.php:260 ../single-brokerage.php:324 ../single-listings.php:
+#: 714 ../single-listings.php:739 ../single-listings.php:802 ../template-agents.
+#: php:132 ../template-agents.php:198 ../template-brokerages.php:104 ../template-
+#: brokerages.php:166 ../admin/theme-functions.php:1970 ../includes/agent-contact-
+#: modal.php:27 ../includes/agent-contact-modal.php:27 ../includes/agent-contact-
+#: modal.php:27 ../includes/single-listing-home.php:336 ../includes/single-
+#: listing-home.php:359 ../includes/single-listing-home.php:420 ..
+#: /includes/widgets/ct-widget-agentinfo.php:77 ../includes/widgets/ct-widget-
+#: listingscontact.php:36 ../includes/widgets/ct-widget-listingscontact.php:36 ..
+#: /includes/widgets/ct-widget-listingscontact.php:36
+msgid "Email"
+msgstr ""
+
+#: ../archive-brokerage.php:91 ../author.php:77 ../single-brokerage.php:85 ..
+#: /single-brokerage.php:262 ../single-listings.php:741 ../template-agents.php:
+#: 134 ../template-brokerages.php:106 ../template-contact.php:70 ..
+#: /includes/agent-contact-modal.php:29 ../includes/agent-contact-modal.php:29 ..
+#: /includes/agent-contact-modal.php:29 ../includes/single-listing-home.php:361 ..
+#: /includes/widgets/ct-widget-listingscontact.php:38 ../includes/widgets/ct-
+#: widget-listingscontact.php:38 ../includes/widgets/ct-widget-listingscontact.
+#: php:38
+msgid "Phone"
+msgstr ""
+
+#: ../archive-brokerage.php:99 ../author.php:85 ../single-brokerage.php:93 ..
+#: /single-brokerage.php:270 ../single-listings.php:749 ../template-agents.php:
+#: 142 ../template-brokerages.php:114 ../template-contact.php:81 ../template-
+#: contact.php:81 ../admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/inc/importer/wordpress-importer.php:286 ..
+#: /admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/wbc_importer/inc/importer/wordpress-importer.
+#: php:286 ../includes/agent-contact-modal.php:38 ../includes/single-listing-home.
+#: php:369 ../includes/widgets/ct-widget-listingscontact.php:47
+msgid "Submit"
+msgstr ""
+
+#: ../archive-brokerage.php:168 ../single-listings.php:418 ../template-brokerages.
+#: php:183
+msgid "View"
+msgstr ""
+
+#: ../archive-brokerage.php:178 ../template-brokerages.php:193
+msgid "No Brokerages Found."
+msgstr ""
+
+#: ../archive.php:58
+msgid "No posts were found which match your search criteria"
+msgstr ""
+
+#: ../archive.php:58 ../layouts/grid.php:23 ../layouts/list.php:20
+msgid "Try broadening your search to find more results."
+msgstr ""
+
+#: ../author.php:30 ../admin/profile-fields.php:48
+msgid "Agent"
+msgstr ""
+
+#: ../comments.php:13
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: ../comments.php:31
+msgid "No Responses"
+msgstr ""
+
+#: ../comments.php:31
+msgid "1 Comment"
+msgstr ""
+
+#: ../comments.php:31
+#, php-format
+msgid "% Comments"
+msgstr ""
+
+#: ../comments.php:44
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../comments.php:45
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../comments.php:53
+msgid "Comments are closed, but"
+msgstr ""
+
+#: ../comments.php:53
+msgid "Trackback URL for this post"
+msgstr ""
+
+#: ../comments.php:53
+msgid "trackbacks"
+msgstr ""
+
+#: ../comments.php:53
+msgid "and pingbacks are open."
+msgstr ""
+
+#: ../comments.php:59
+msgid "Reviews are closed."
+msgstr ""
+
+#: ../comments.php:61
+msgid "Comments are closed."
+msgstr ""
+
+#: ../footer.php:61
+msgid "Back to top"
+msgstr ""
+
+#: ../footer.php:63
+msgid "All Rights Reserved."
+msgstr ""
+
+#: ../footer.php:63
+msgid "Back to top "
+msgstr ""
+
+#: ../header.php:144
+msgid "Hi, "
+msgstr ""
+
+#: ../header.php:161
+msgid "Favorite Listings"
+msgstr ""
+
+#: ../header.php:164 ../template-submit-listing.php:424
+msgid "Submit Listing"
+msgstr ""
+
+#: ../header.php:167
+msgid "My Listings"
+msgstr ""
+
+#: ../header.php:170
+msgid "Account Settings"
+msgstr ""
+
+#: ../header.php:172
+msgid "Logout"
+msgstr ""
+
+#: ../header.php:176
+msgid "Login / Register"
+msgstr ""
+
+#: ../search-listings.php:347
+msgid "listings found"
+msgstr ""
+
+#: ../search-listings.php:347
+msgid "listing found"
+msgstr ""
+
+#: ../search-listings.php:350
+msgid "Find A Home"
+msgstr ""
+
+#: ../search-listings.php:361 ../search-listings.php:419
+msgid "Searching:"
+msgstr ""
+
+#: ../search-listings.php:365 ../search-listings.php:423
+msgid "All listings"
+msgstr ""
+
+#: ../search-listings.php:367 ../admin/theme-functions.php:591
+msgid "Open Search"
+msgstr ""
+
+#: ../search-listings.php:425 ../admin/theme-functions.php:588
+msgid "Close Map"
+msgstr ""
+
+#: ../single-brokerage.php:37 ../admin/profile-fields.php:120
+msgid "Brokerage"
+msgstr ""
+
+#: ../single-brokerage.php:146 ../single-listings.php:42 ..
+#: /admin/ReduxFramework/theme-options/re7-config.php:1871
+msgid "Listings"
+msgstr ""
+
+#. Name of the template
+#: ../single-brokerage.php:147 ../admin/ReduxFramework/theme-options/re7-config.
+#: php:1793
+msgid "Agents"
+msgstr ""
+
+#: ../single-brokerage.php:148
+msgid "Map"
+msgstr ""
+
+#: ../single-brokerage.php:197 ../template-agents.php:50
+msgid "Type an agents name or title here to filter the list."
+msgstr ""
+
+#: ../single-brokerage.php:343 ../template-agents.php:217
+msgid "View Listings"
+msgstr ""
+
+#: ../single-brokerage.php:354
+msgid "This brokerage currently has no active agents."
+msgstr ""
+
+#: ../single-brokerage.php:354 ../layouts/grid.php:19 ../layouts/grid.php:21 ..
+#: /layouts/list.php:16 ../layouts/list.php:18
+msgid "Check back soon."
+msgstr ""
+
+#: ../single-listings.php:56 ../single-listings.php:57 ../single-listings.php:58 .
+#: ./includes/single-listing-home.php:452 ../includes/single-listing-home.php:453 
+#: ../includes/single-listing-home.php:454 ../includes/widgets/ct-widget-
+#: listingssocial.php:29 ../includes/widgets/ct-widget-listingssocial.php:30 ..
+#: /includes/widgets/ct-widget-listingssocial.php:31
+msgid "Check out this great listing on"
+msgstr ""
+
+#: ../single-listings.php:62 ../admin/theme-functions.php:592 ..
+#: /admin/ReduxFramework/ReduxCore/inc/tracking.php:166 ../includes/agent-contact-
+#: modal.php:16
+msgid "Close"
+msgstr ""
+
+#: ../single-listings.php:119 ../template-edit-listing.php:232 ../template-edit-
+#: profile.php:50 ../template-submit-listing.php:139 ../template-view-invoices.
+#: php:51 ../template-view-listings.php:51
+msgid "You must be logged in to view this page."
+msgstr ""
+
+#: ../single-listings.php:137 ../includes/single-listing-home.php:75
+msgid "Co-listing"
+msgstr ""
+
+#: ../single-listings.php:161 ../single-listings.php:238 ../template-advanced-
+#: search.php:175 ../template-advanced-search.php:176 ../template-edit-listing.
+#: php:535 ../template-submit-listing.php:372 ../includes/advanced-search.php:218 
+#: ../includes/advanced-search.php:219 ../includes/widgets/ct-widget-
+#: listingssearch.php:227 ../includes/widgets/ct-widget-listingssearch.php:228
+msgid "Property ID"
+msgstr ""
+
+#: ../single-listings.php:256
+msgid "Listing Features"
+msgstr ""
+
+#: ../single-listings.php:261
+msgid "Floor Plans"
+msgstr ""
+
+#: ../single-listings.php:266
+msgid "Booking Form"
+msgstr ""
+
+#: ../single-listings.php:271 ../single-listings.php:496
+msgid "Attachments"
+msgstr ""
+
+#: ../single-listings.php:276 ../single-listings.php:529
+msgid "Video"
+msgstr ""
+
+#: ../single-listings.php:281
+msgid "Tour"
+msgstr ""
+
+#: ../single-listings.php:283 ../single-listings.php:551
+msgid "Location"
+msgstr ""
+
+#: ../single-listings.php:285
+msgid "Nearby"
+msgstr ""
+
+#: ../single-listings.php:289
+msgid "Reviews"
+msgstr ""
+
+#. Name of the template
+#: ../single-listings.php:292 ../admin/ReduxFramework/theme-options/re7-config.
+#: php:2622
+msgid "Contact"
+msgstr ""
+
+#: ../single-listings.php:322
+msgid "Floor Plans & Pricing"
+msgstr ""
+
+#: ../single-listings.php:334 ../template-advanced-search.php:115 ../template-
+#: edit-listing.php:520 ../template-submit-listing.php:357 ../admin/theme-
+#: functions.php:3184 ../includes/advanced-search.php:109 ../includes/widgets/ct-
+#: widget-listingssearch.php:118
+msgid "Beds"
+msgstr ""
+
+#: ../single-listings.php:337 ../template-advanced-search.php:120 ../template-
+#: edit-listing.php:525 ../template-submit-listing.php:362 ../admin/theme-
+#: functions.php:2562 ../admin/theme-functions.php:3186 ../includes/advanced-
+#: search.php:118 ../includes/sub-listings.php:95 ../includes/widgets/ct-widget-
+#: agentsotherlistings.php:124 ../includes/widgets/ct-widget-listingssearch.php:127
+msgid "Baths"
+msgstr ""
+
+#: ../single-listings.php:341 ..
+#: /admin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:433
+msgid "Size"
+msgstr ""
+
+#: ../single-listings.php:344 ../template-edit-listing.php:285 ../template-submit-
+#: listing.php:180
+msgid "Price"
+msgstr ""
+
+#: ../single-listings.php:347
+msgid "Availability"
+msgstr ""
+
+#: ../single-listings.php:454 ../includes/single-listing-home.php:137
+msgid "Prices"
+msgstr ""
+
+#: ../single-listings.php:480 ../includes/single-listing-home.php:157
+msgid "Book this listing"
+msgstr ""
+
+#: ../single-listings.php:540
+msgid "Virtual Tour"
+msgstr ""
+
+#: ../single-listings.php:565 ../includes/single-listing-home.php:209
+msgid "powered by "
+msgstr ""
+
+#: ../single-listings.php:566 ../includes/single-listing-home.php:210
+msgid "What's Nearby?"
+msgstr ""
+
+#: ../single-listings.php:652
+msgid "No Reviews"
+msgstr ""
+
+#: ../single-listings.php:652
+msgid "1 Review"
+msgstr ""
+
+#: ../single-listings.php:652
+msgid "% Reviews"
+msgstr ""
+
+#: ../single-listings.php:729 ../includes/single-listing-home.php:349
+msgid "Request More Information"
+msgstr ""
+
+#: ../single-listings.php:733 ../includes/agent-contact-modal.php:21 ..
+#: /includes/single-listing-home.php:353 ../includes/widgets/ct-widget-
+#: listingscontact.php:30
+msgid "Tell me more about this property"
+msgstr ""
+
+#: ../single-listings.php:762 ../includes/single-listing-home.php:380
+msgid "Co-listing Agent"
+msgstr ""
+
+#: ../single-listings.php:845
+msgid "Other Listings in Community"
+msgstr ""
+
+#: ../single.php:79 ../includes/post-author-info.php:15 ../layouts/blog-large.php:
+#: 54
+msgid "By"
+msgstr ""
+
+#: ../single.php:79 ../layouts/blog-large.php:54
+msgid "in"
+msgstr ""
+
+#: ../single.php:79 ../layouts/blog-large.php:54
+msgid "with"
+msgstr ""
+
+#: ../single.php:127 ../template-agents.php:236 ../template-dsidxpress.php:41 ..
+#: /template-edit-listing.php:570 ../template-submit-listing.php:434
+msgid "Pages:"
+msgstr ""
+
+msgid "Advanced Search"
+msgstr ""
+
+#: ../template-advanced-search.php:67 ../template-edit-listing.php:255 ..
+#: /template-submit-listing.php:170 ../template-view-invoices.php:59 ..
+#: /admin/plugins/class-tgm-plugin-activation.php:2642 ../includes/advanced-
+#: search.php:37 ../includes/widgets/ct-widget-listingssearch.php:46
+msgid "Type"
+msgstr ""
+
+#: ../template-advanced-search.php:72 ../template-edit-listing.php:495 ..
+#: /template-submit-listing.php:332 ../admin/profile-fields.php:139 ..
+#: /admin/theme-functions.php:3174 ../includes/advanced-search.php:46 ..
+#: /includes/widgets/ct-widget-listingssearch.php:55
+msgid "City"
+msgstr ""
+
+#: ../template-advanced-search.php:82 ../admin/theme-functions.php:3041 ..
+#: /admin/theme-functions.php:3060 ../admin/theme-functions.php:3176 ..
+#: /includes/advanced-search.php:60 ../includes/widgets/ct-widget-listingssearch.
+#: php:69
+msgid "Area"
+msgstr ""
+
+#: ../template-advanced-search.php:84 ../admin/theme-functions.php:3178 ..
+#: /admin/theme-functions.php:3196 ../includes/advanced-search.php:62 ..
+#: /includes/widgets/ct-widget-listingssearch.php:71
+msgid "Suburb"
+msgstr ""
+
+#: ../template-advanced-search.php:86 ../template-edit-listing.php:500 ..
+#: /template-submit-listing.php:337 ../admin/theme-functions.php:3182 ..
+#: /includes/advanced-search.php:64 ../includes/widgets/ct-widget-listingssearch.
+#: php:73
+msgid "State"
+msgstr ""
+
+#: ../template-advanced-search.php:97 ../admin/theme-functions.php:3202 ..
+#: /includes/advanced-search.php:79 ../includes/widgets/ct-widget-listingssearch.
+#: php:88
+msgid "Postcode"
+msgstr ""
+
+#: ../template-advanced-search.php:99 ../admin/theme-functions.php:3206 ..
+#: /includes/advanced-search.php:81 ../includes/widgets/ct-widget-listingssearch.
+#: php:90
+msgid "Zipcode"
+msgstr ""
+
+#: ../template-advanced-search.php:105 ../template-edit-listing.php:510 ..
+#: /template-submit-listing.php:347 ../admin/theme-functions.php:3172 ..
+#: /includes/advanced-search.php:91 ../includes/widgets/ct-widget-listingssearch.
+#: php:100
+msgid "Country"
+msgstr ""
+
+#: ../template-advanced-search.php:110 ../template-advanced-search.php:139 ..
+#: /admin/theme-functions.php:3200 ../includes/advanced-search.php:100 ..
+#: /includes/advanced-search.php:154 ../includes/widgets/ct-widget-listingssearch.
+#: php:109 ../includes/widgets/ct-widget-listingssearch.php:163
+msgid "Community"
+msgstr ""
+
+#: ../template-advanced-search.php:125 ../template-edit-listing.php:270 ..
+#: /template-submit-listing.php:175 ../template-view-invoices.php:61 ..
+#: /admin/theme-functions.php:3188 ../admin/plugins/class-tgm-plugin-activation.
+#: php:2647 ../admin/ReduxFramework/ReduxCore/inc/welcome/welcome.php:361 ..
+#: /includes/advanced-search.php:127 ../includes/widgets/ct-widget-listingssearch.
+#: php:136
+msgid "Status"
+msgstr ""
+
+#: ../template-advanced-search.php:135 ../admin/theme-functions.php:3192 ..
+#: /includes/advanced-search.php:150 ../includes/widgets/ct-widget-listingssearch.
+#: php:159
+msgid "Neighborhood"
+msgstr ""
+
+#: ../template-advanced-search.php:137 ../admin/theme-functions.php:3194 ..
+#: /includes/advanced-search.php:152 ../includes/widgets/ct-widget-listingssearch.
+#: php:161
+msgid "District"
+msgstr ""
+
+#: ../template-advanced-search.php:145 ../template-advanced-search.php:146 ..
+#: /includes/advanced-search.php:164 ../includes/advanced-search.php:165 ..
+#: /includes/widgets/ct-widget-listingssearch.php:173 ../includes/widgets/ct-
+#: widget-listingssearch.php:174
+msgid "Price From"
+msgstr ""
+
+#: ../template-advanced-search.php:150 ../template-advanced-search.php:151 ..
+#: /includes/advanced-search.php:173 ../includes/advanced-search.php:174 ..
+#: /includes/widgets/ct-widget-listingssearch.php:182 ../includes/widgets/ct-
+#: widget-listingssearch.php:183
+msgid "Price To"
+msgstr ""
+
+#: ../template-advanced-search.php:155 ../template-advanced-search.php:156 ..
+#: /includes/advanced-search.php:183 ../includes/widgets/ct-widget-listingssearch.
+#: php:192
+msgid "Size From"
+msgstr ""
+
+#: ../template-advanced-search.php:160 ../template-advanced-search.php:161 ..
+#: /includes/advanced-search.php:192 ../includes/widgets/ct-widget-listingssearch.
+#: php:201
+msgid "Size To"
+msgstr ""
+
+#: ../template-advanced-search.php:165 ../template-advanced-search.php:166 ..
+#: /includes/advanced-search.php:200 ../includes/advanced-search.php:201 ..
+#: /includes/widgets/ct-widget-listingssearch.php:209 ../includes/widgets/ct-
+#: widget-listingssearch.php:210
+msgid "Lot Size From"
+msgstr ""
+
+#: ../template-advanced-search.php:170 ../template-advanced-search.php:171 ..
+#: /includes/advanced-search.php:209 ../includes/advanced-search.php:210 ..
+#: /includes/widgets/ct-widget-listingssearch.php:218 ../includes/widgets/ct-
+#: widget-listingssearch.php:219
+msgid "Lot Size To"
+msgstr ""
+
+#: ../template-advanced-search.php:186 ../template-advanced-search.php:187 ..
+#: /includes/advanced-search.php:227 ../includes/advanced-search.php:228 ..
+#: /includes/widgets/ct-widget-listingssearch.php:236 ../includes/widgets/ct-
+#: widget-listingssearch.php:237
+msgid "Number of Guests"
+msgstr ""
+
+#: ../template-advanced-search.php:192 ../includes/advanced-search.php:136 ..
+#: /includes/widgets/ct-widget-listingssearch.php:145
+msgid "Addtional Features"
+msgstr ""
+
+#: ../template-advanced-search.php:198 ../includes/advanced-search.php:256 ..
+#: /includes/widgets/ct-widget-listingssearch.php:258
+msgid "Search"
+msgstr ""
+
+#: ../template-agents.php:231
+msgid "No Agents Found."
+msgstr ""
+
+#. Name of the template
+msgid "Big Map"
+msgstr ""
+
+#. Name of the template
+msgid "Contact No Form"
+msgstr ""
+
+#: ../template-contact.php:62
+msgid "Name*"
+msgstr ""
+
+#: ../template-contact.php:66
+msgid "Email*"
+msgstr ""
+
+#: ../template-contact.php:73
+msgid "Subject*"
+msgstr ""
+
+#: ../template-contact.php:75
+msgid "Message"
+msgstr ""
+
+#. Name of the template
+msgid "dsIDXpress"
+msgstr ""
+
+#. Name of the template
+msgid "Edit Listing"
+msgstr ""
+
+#: ../template-edit-listing.php:245 ../template-submit-listing.php:160 ..
+#: /admin/profile-fields.php:133
+msgid "Address"
+msgstr ""
+
+#: ../template-edit-listing.php:250 ../template-submit-listing.php:165
+msgid "Alternate Title"
+msgstr ""
+
+#: ../template-edit-listing.php:251 ../template-submit-listing.php:166
+msgid "(e.g. Downtown Penthouse)"
+msgstr ""
+
+#: ../template-edit-listing.php:261 ../template-edit-listing.php:276 ..
+#: /admin/theme-functions.php:3269 ../admin/theme-functions.php:3294
+msgid "Any"
+msgstr ""
+
+#: ../template-edit-listing.php:292 ../template-submit-listing.php:187
+msgid "Price Prefix"
+msgstr ""
+
+#: ../template-edit-listing.php:292 ../template-submit-listing.php:188
+msgid " (e.g. From, Call for price)"
+msgstr ""
+
+#: ../template-edit-listing.php:297 ../template-submit-listing.php:192
+msgid "Price Postfix Text"
+msgstr ""
+
+#: ../template-edit-listing.php:297 ../template-submit-listing.php:193
+msgid " (e.g. /month, /week)"
+msgstr ""
+
+#: ../template-edit-listing.php:303 ../template-submit-listing.php:198
+msgid "Listing Description"
+msgstr ""
+
+#: ../template-edit-listing.php:324 ../template-submit-listing.php:227
+msgid "Optional Rental Information"
+msgstr ""
+
+#: ../template-edit-listing.php:330 ../template-submit-listing.php:233
+msgid "Max-number of Guests"
+msgstr ""
+
+#: ../template-edit-listing.php:335 ../template-submit-listing.php:238
+msgid "Minimum Stay"
+msgstr ""
+
+#: ../template-edit-listing.php:342 ../template-submit-listing.php:245
+msgid "Check In Time"
+msgstr ""
+
+#: ../template-edit-listing.php:347 ../template-submit-listing.php:250
+msgid "Check Out Time"
+msgstr ""
+
+#: ../template-edit-listing.php:354 ../template-submit-listing.php:257
+msgid "Extra Person Charge"
+msgstr ""
+
+#: ../template-edit-listing.php:359 ../template-submit-listing.php:262 ..
+#: /admin/theme-functions.php:2742
+msgid "Cleaning Fee"
+msgstr ""
+
+#: ../template-edit-listing.php:366 ../template-submit-listing.php:269 ..
+#: /admin/theme-functions.php:2753
+msgid "Cancellation Fee"
+msgstr ""
+
+#: ../template-edit-listing.php:371 ../template-submit-listing.php:274 ..
+#: /admin/theme-functions.php:2764
+msgid "Security Deposit"
+msgstr ""
+
+#: ../template-edit-listing.php:386 ../template-submit-listing.php:286
+msgid "Listing Featured Image"
+msgstr ""
+
+#: ../template-edit-listing.php:395 ../template-submit-listing.php:298
+msgid "Listing Images"
+msgstr ""
+
+#: ../template-edit-listing.php:471 ../template-submit-listing.php:308
+msgid "Drag & Drop Images Here"
+msgstr ""
+
+#: ../template-edit-listing.php:474 ../template-submit-listing.php:311
+msgid "or"
+msgstr ""
+
+#: ../template-edit-listing.php:477 ../template-submit-listing.php:314
+msgid "Select Images"
+msgstr ""
+
+#: ../template-edit-listing.php:481 ../template-submit-listing.php:318
+msgid "*At least one image is required for valid submission, minimum width of 817px."
+msgstr ""
+
+#: ../template-edit-listing.php:482 ../template-submit-listing.php:319
+msgid ""
+"*You can mark an image as featured by clicking the star icon, Otherwise "
+"first image will be considered featured image."
+msgstr ""
+
+#: ../template-edit-listing.php:540 ../template-submit-listing.php:377
+msgid "Video URL"
+msgstr ""
+
+#: ../template-edit-listing.php:546 ../template-submit-listing.php:383
+msgid "Additional Features (comma separated)"
+msgstr ""
+
+#: ../template-edit-listing.php:552 ../template-submit-listing.php:397
+msgid "Latitude & Longitude (optional)"
+msgstr ""
+
+#: ../template-edit-listing.php:562
+msgid "Update Listing"
+msgstr ""
+
+#. Name of the template
+msgid "Edit Profile"
+msgstr ""
+
+#: ../template-edit-profile.php:69
+msgid "The passwords you entered do not match. Your password was not updated."
+msgstr ""
+
+#: ../template-edit-profile.php:77
+msgid "The Email you entered is not valid. Please try again."
+msgstr ""
+
+#: ../template-edit-profile.php:79
+msgid "This email is already used by another user. Try a different one."
+msgstr ""
+
+#: ../template-edit-profile.php:124 ../admin/theme-functions.php:1898 ..
+#: /admin/theme-functions.php:1967 ..
+#: /admin/ReduxFramework/ReduxCore/inc/fields/password/field_password.php:63
+msgid "Username"
+msgstr ""
+
+#: ../template-edit-profile.php:125
+msgid "Usernames cannot be changed."
+msgstr ""
+
+#: ../template-edit-profile.php:128 ../admin/theme-functions.php:1973
+msgid "First Name"
+msgstr ""
+
+#: ../template-edit-profile.php:132 ../admin/theme-functions.php:1976
+msgid "Last Name"
+msgstr ""
+
+#: ../template-edit-profile.php:136
+msgid "Nickname"
+msgstr ""
+
+#: ../template-edit-profile.php:136
+msgid "(required)"
+msgstr ""
+
+#: ../template-edit-profile.php:140
+msgid "Display to Public as"
+msgstr ""
+
+#: ../template-edit-profile.php:178
+msgid "Contact Info"
+msgstr ""
+
+#: ../template-edit-profile.php:182
+msgid "E-mail *"
+msgstr ""
+
+#: ../template-edit-profile.php:186
+msgid "Website"
+msgstr ""
+
+#: ../template-edit-profile.php:209
+msgid "About Yourself"
+msgstr ""
+
+#: ../template-edit-profile.php:213
+msgid "Biographical Information"
+msgstr ""
+
+#: ../template-edit-profile.php:213
+msgid ""
+"Share a little biographical information to fill out your profile. This may "
+"be shown publicly."
+msgstr ""
+
+#: ../template-edit-profile.php:217
+msgid "New Password"
+msgstr ""
+
+#: ../template-edit-profile.php:217
+msgid ""
+"If you would like to change the password type a new one. Otherwise leave "
+"this blank."
+msgstr ""
+
+#: ../template-edit-profile.php:221
+msgid "Type your new password again."
+msgstr ""
+
+#: ../template-edit-profile.php:223
+msgid "Strength indicator"
+msgstr ""
+
+#: ../template-edit-profile.php:235
+msgid "Update Profile"
+msgstr ""
+
+#: ../template-favorite-listings.php:115
+msgid "Previous Entries"
+msgstr ""
+
+#: ../template-favorite-listings.php:116
+msgid "Next Entries"
+msgstr ""
+
+#. Name of the template
+msgid "Full Width 2"
+msgstr ""
+
+#. Name of the template
+msgid "Full Width"
+msgstr ""
+
+msgid "Home"
+msgstr ""
+
+#. Name of the template
+msgid "IDX"
+msgstr ""
+
+#. Name of the template
+msgid "Left Sidebar"
+msgstr ""
+
+#. Name of the template
+msgid "Sitemap"
+msgstr ""
+
+#: ../template-sitemap.php:51
+msgid "Last Twenty Posts"
+msgstr ""
+
+#: ../template-sitemap.php:67
+msgid "Pages"
+msgstr ""
+
+#: ../template-sitemap.php:74
+msgid "Categories"
+msgstr ""
+
+#: ../template-sitemap.php:81
+msgid "Posts per category"
+msgstr ""
+
+#: ../template-submit-listing.php:145
+msgid "Listings Limit Reached"
+msgstr ""
+
+#: ../template-submit-listing.php:146
+msgid "You've reached the listings limit for your membership package."
+msgstr ""
+
+#: ../template-submit-listing.php:146
+msgid "Upgrade Today!"
+msgstr ""
+
+#: ../template-submit-listing.php:234
+msgid " (e.g. 2)"
+msgstr ""
+
+#: ../template-submit-listing.php:239
+msgid " (e.g. 1 night)"
+msgstr ""
+
+#: ../template-submit-listing.php:246
+msgid " (e.g. 3:00 PM)"
+msgstr ""
+
+#: ../template-submit-listing.php:251
+msgid " (e.g. 11:00 AM)"
+msgstr ""
+
+#: ../template-submit-listing.php:258
+msgid " (e.g. 50)"
+msgstr ""
+
+#: ../template-submit-listing.php:263
+msgid " (e.g. 150)"
+msgstr ""
+
+#: ../template-submit-listing.php:270
+msgid " (e.g. 275)"
+msgstr ""
+
+#: ../template-submit-listing.php:275
+msgid " (e.g. 895)"
+msgstr ""
+
+#: ../template-submit-listing.php:291
+msgid "Gallery Images (select as many as you like)"
+msgstr ""
+
+#. Name of the template
+msgid "Testimonials"
+msgstr ""
+
+#. Name of the template
+msgid "Invoices"
+msgstr ""
+
+#: ../template-view-invoices.php:57
+msgid "Invoice"
+msgstr ""
+
+#: ../template-view-invoices.php:58 ..
+#: /admin/ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:149 ..
+#: /admin/ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:204
+msgid "Description"
+msgstr ""
+
+#: ../template-view-invoices.php:60
+msgid "Date"
+msgstr ""
+
+#: ../template-view-invoices.php:62
+msgid "Total"
+msgstr ""
+
+#: ../template-view-listings.php:103
+msgid "Cost:"
+msgstr ""
+
+#: ../template-view-listings.php:108
+msgid "Featured?"
+msgstr ""
+
+#: ../template-view-listings.php:113
+msgid "Total:"
+msgstr ""
+
+#: ../template-view-listings.php:144
+msgid "You don't have any listings yet..."
+msgstr ""
+
+#: ../template-view-listings.php:145
+msgid "Create One"
+msgstr ""
+
+#: ../admin/profile-fields.php:23
+msgid "Select a Brokerage"
+msgstr ""
+
+#: ../admin/profile-fields.php:43
+msgid "Extra profile information"
+msgstr ""
+
+#: ../admin/profile-fields.php:55
+msgid "Agent Order"
+msgstr ""
+
+#: ../admin/profile-fields.php:58
+msgid ""
+"If user is an agent select the order you would like them displayed on the "
+"agents page, e.g. 1, 2, 3, etc&hellip; NOTE: You must also set Real Estate 7 "
+"Options > Agents > Manually Order Agents? > to Yes, otherwise the ordering "
+"won't be applied."
+msgstr ""
+
+#: ../admin/profile-fields.php:62
+msgid "Profile Image"
+msgstr ""
+
+#: ../admin/profile-fields.php:72
+msgid ""
+"Please upload a profile picture here, if none is chosen a default image will "
+"be used."
+msgstr ""
+
+#: ../admin/profile-fields.php:76
+msgid "Mobile #"
+msgstr ""
+
+#: ../admin/profile-fields.php:82
+msgid "Fax #"
+msgstr ""
+
+#: ../admin/profile-fields.php:89 ..
+#: /admin/ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:145 ..
+#: /admin/ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:200
+msgid "Title"
+msgstr ""
+
+#: ../admin/profile-fields.php:95
+msgid "Tagline"
+msgstr ""
+
+#: ../admin/profile-fields.php:102
+msgid "Office Information"
+msgstr ""
+
+#: ../admin/profile-fields.php:106
+msgid "Personal Logo"
+msgstr ""
+
+#: ../admin/profile-fields.php:116
+msgid ""
+"Upload your personal logo here, or if you choose to associate a Brokerage "
+"below that logo will be used instead."
+msgstr ""
+
+#: ../admin/profile-fields.php:123
+msgid ""
+"Assign a brokerage here, these are pulled from the Brokerage custom post "
+"type."
+msgstr ""
+
+#: ../admin/profile-fields.php:127
+msgid "Office #"
+msgstr ""
+
+#: ../admin/profile-fields.php:145
+msgid "State or Province"
+msgstr ""
+
+#: ../admin/profile-fields.php:151 ../admin/theme-functions.php:3204
+msgid "Postal Code"
+msgstr ""
+
+#: ../admin/theme-functions.php:134
+msgid "Primary Left Menu"
+msgstr ""
+
+#: ../admin/theme-functions.php:135
+msgid "Primary Right Menu"
+msgstr ""
+
+#: ../admin/theme-functions.php:136
+msgid "Footer Menu"
+msgstr ""
+
+#: ../admin/theme-functions.php:589
+msgid "Open Map"
+msgstr ""
+
+#: ../admin/theme-functions.php:590
+msgid "Close Search"
+msgstr ""
+
+#: ../admin/theme-functions.php:593
+msgid "Open"
+msgstr ""
+
+#: ../admin/theme-functions.php:603
+msgid "* This field is required"
+msgstr ""
+
+#: ../admin/theme-functions.php:604
+msgid "* Please select an option"
+msgstr ""
+
+#: ../admin/theme-functions.php:605
+msgid "* This checkbox is required"
+msgstr ""
+
+#: ../admin/theme-functions.php:606
+msgid "* Invalid phone number"
+msgstr ""
+
+#: ../admin/theme-functions.php:607
+msgid "* Invalid email address"
+msgstr ""
+
+#: ../admin/theme-functions.php:608
+msgid "* Invalid date, must be in YYYY-MM-DD format"
+msgstr ""
+
+#: ../admin/theme-functions.php:609
+msgid "* Numbers only"
+msgstr ""
+
+#: ../admin/theme-functions.php:610
+msgid "* No special caracters allowed"
+msgstr ""
+
+#: ../admin/theme-functions.php:611
+msgid "* Letters only"
+msgstr ""
+
+#: ../admin/theme-functions.php:1109
+msgid "Sort By"
+msgstr ""
+
+#: ../admin/theme-functions.php:1110
+msgid "Price - Low to High"
+msgstr ""
+
+#: ../admin/theme-functions.php:1111
+msgid "Price - High to Low"
+msgstr ""
+
+#: ../admin/theme-functions.php:1112
+msgid "Date - Old to New"
+msgstr ""
+
+#: ../admin/theme-functions.php:1113
+msgid "Date - New to Old"
+msgstr ""
+
+#: ../admin/theme-functions.php:1824
+msgid "Pay with PayPal"
+msgstr ""
+
+#: ../admin/theme-functions.php:1860
+msgid "User registration is not enabled"
+msgstr ""
+
+#: ../admin/theme-functions.php:1886
+msgid "Log in"
+msgstr ""
+
+#: ../admin/theme-functions.php:1887
+msgid "Don't have an account?"
+msgstr ""
+
+#: ../admin/theme-functions.php:1887
+msgid "Create your account,"
+msgstr ""
+
+#: ../admin/theme-functions.php:1887
+msgid "it takes less than a minute."
+msgstr ""
+
+#: ../admin/theme-functions.php:1901 ../admin/theme-functions.php:1980 ..
+#: /admin/ReduxFramework/ReduxCore/inc/fields/password/field_password.php:62
+msgid "Password"
+msgstr ""
+
+#: ../admin/theme-functions.php:1910
+msgid "Lost your password?"
+msgstr ""
+
+#: ../admin/theme-functions.php:1920
+msgid "Lost Password?"
+msgstr ""
+
+#: ../admin/theme-functions.php:1921
+msgid ""
+"Enter your email address and we'll send you a link you can use to pick a new "
+"password."
+msgstr ""
+
+#: ../admin/theme-functions.php:1923
+msgid "Username or Email"
+msgstr ""
+
+#: ../admin/theme-functions.php:1925
+msgid "Get New Password"
+msgstr ""
+
+#: ../admin/theme-functions.php:1956
+msgid "Create an account"
+msgstr ""
+
+#: ../admin/theme-functions.php:1957
+msgid "It takes less than a minute. If you already have an account "
+msgstr ""
+
+#: ../admin/theme-functions.php:1957
+msgid "login"
+msgstr ""
+
+#: ../admin/theme-functions.php:1985
+msgid "Password Again"
+msgstr ""
+
+#: ../admin/theme-functions.php:1990
+msgid "Register"
+msgstr ""
+
+#: ../admin/theme-functions.php:2014
+msgid "Username already taken"
+msgstr ""
+
+#: ../admin/theme-functions.php:2018 ../admin/theme-functions.php:2087 ..
+#: /admin/theme-functions.php:2128
+msgid "Invalid username"
+msgstr ""
+
+#: ../admin/theme-functions.php:2022
+msgid "Please enter a username"
+msgstr ""
+
+#: ../admin/theme-functions.php:2026
+msgid "Invalid email"
+msgstr ""
+
+#: ../admin/theme-functions.php:2030
+msgid "Email already registered"
+msgstr ""
+
+#: ../admin/theme-functions.php:2034 ../admin/theme-functions.php:2092 ..
+#: /admin/theme-functions.php:2133
+msgid "Please enter a password"
+msgstr ""
+
+#: ../admin/theme-functions.php:2038
+msgid "Passwords do not match"
+msgstr ""
+
+#: ../admin/theme-functions.php:2098 ../admin/theme-functions.php:2139
+msgid "Incorrect password"
+msgstr ""
+
+#: ../admin/theme-functions.php:2173
+msgid "Error"
+msgstr ""
+
+#: ../admin/theme-functions.php:2310 ../admin/theme-functions.php:2314
+msgid "Featured Image"
+msgstr ""
+
+#: ../admin/theme-functions.php:2312
+msgid "Brokerage Logo"
+msgstr ""
+
+#: ../admin/theme-functions.php:2548 ../includes/sub-listings.php:81 ..
+#: /includes/widgets/ct-widget-agentsotherlistings.php:110
+msgid "Bed"
+msgstr ""
+
+#: ../admin/theme-functions.php:2578
+msgid "Walk Score&reg;"
+msgstr ""
+
+#: ../admin/theme-functions.php:2598 ../includes/sub-listings.php:115 ..
+#: /includes/widgets/ct-widget-agentsotherlistings.php:144
+msgid "Rating"
+msgstr ""
+
+#: ../admin/theme-functions.php:2616 ../includes/sub-listings.php:133 ..
+#: /includes/widgets/ct-widget-agentsotherlistings.php:162
+msgid "Guests"
+msgstr ""
+
+#: ../admin/theme-functions.php:2631 ../includes/sub-listings.php:148 ..
+#: /includes/widgets/ct-widget-agentsotherlistings.php:177
+msgid "Min Stay"
+msgstr ""
+
+#: ../admin/theme-functions.php:2672 ../includes/sub-listings.php:189 ..
+#: /includes/widgets/ct-widget-agentsotherlistings.php:218
+msgid "Lot Size"
+msgstr ""
+
+#: ../admin/theme-functions.php:2699
+msgid "Check In"
+msgstr ""
+
+#: ../admin/theme-functions.php:2710
+msgid "Check Out"
+msgstr ""
+
+#: ../admin/theme-functions.php:2731
+msgid "Extra People"
+msgstr ""
+
+#: ../admin/theme-functions.php:2854 ../admin/theme-functions.php:2859
+msgid "Brokered by"
+msgstr ""
+
+#: ../admin/theme-functions.php:3037
+msgid " Sq Ft"
+msgstr ""
+
+#: ../admin/theme-functions.php:3039
+msgid " m²"
+msgstr ""
+
+#: ../admin/theme-functions.php:3054
+msgid "Acres"
+msgstr ""
+
+#: ../admin/theme-functions.php:3056
+msgid "Sq Ft"
+msgstr ""
+
+#: ../admin/theme-functions.php:3058
+msgid "m²"
+msgstr ""
+
+#: ../admin/theme-functions.php:3170
+msgid "Property Type"
+msgstr ""
+
+#: ../admin/theme-functions.php:3180
+msgid "Province"
+msgstr ""
+
+#: ../admin/theme-functions.php:3190
+msgid "Additional Features"
+msgstr ""
+
+#: ../admin/theme-functions.php:3198
+msgid "Building"
+msgstr ""
+
+#: ../admin/theme-functions.php:3208
+msgid "Pet Friendly?"
+msgstr ""
+
+#: ../admin/theme-functions.php:3210
+msgid "Furnished/Unfurnished?"
+msgstr ""
+
+#: ../admin/theme-functions.php:3446
+msgid " km"
+msgstr ""
+
+#: ../admin/theme-functions.php:3448
+msgid " mi"
+msgstr ""
+
+#: ../admin/theme-functions.php:3675
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../admin/theme-functions.php:3681
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: ../admin/theme-functions.php:3684
+#, php-format
+msgid "Day: %s"
+msgstr ""
+
+#: ../admin/theme-functions.php:3687
+#, php-format
+msgid "Month: %s"
+msgstr ""
+
+#: ../admin/theme-functions.php:3687
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: ../admin/theme-functions.php:3690
+#, php-format
+msgid "Year: %s"
+msgstr ""
+
+#: ../admin/theme-functions.php:3690
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: ../admin/theme-functions.php:3693
+msgid "Archives"
+msgstr ""
+
+#: ../admin/theme-functions.php:3762
+msgid "Share This"
+msgstr ""
+
+#: ../admin/theme-functions.php:3765 ../admin/theme-functions.php:3766 ..
+#: /admin/theme-functions.php:3767 ../includes/post-social.php:16 ..
+#: /includes/post-social.php:17 ../includes/post-social.php:18
+msgid "Check out this great article on"
+msgstr ""
+
+#: ../admin/theme-functions.php:3807
+msgid "About The Author"
+msgstr ""
+
+#: ../admin/theme-functions.php:3864
+msgid "Related Posts"
+msgstr ""
+
+#: ../admin/theme-functions.php:3914
+msgid "<span class=\"meta-nav\">&larr;</span> Older"
+msgstr ""
+
+#: ../admin/theme-functions.php:3915
+msgid "Newer <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../admin/theme-functions.php:4357
+msgid ""
+"<span class=\"meta-nav\"><i class=\"fa fa-chevron-left\"></i></span> Older "
+"listings"
+msgstr ""
+
+#: ../admin/theme-functions.php:4358
+msgid ""
+"Newer listings <span class=\"meta-nav\"><i class=\"fa fa-chevron-"
+"right\"></i></span>"
+msgstr ""
+
+#: ../admin/theme-functions.php:4380 ../admin/theme-functions.php:4381
+msgid "%link"
+msgstr ""
+
+#: ../admin/theme-functions.php:4701
+msgid "g:i a"
+msgstr ""
+
+#: ../admin/theme-functions.php:4704
+#, php-format
+msgid "Minute %1$s"
+msgstr ""
+
+#: ../admin/theme-functions.php:4704
+msgid "i"
+msgstr ""
+
+#: ../admin/theme-functions.php:4707
+msgid "g a"
+msgstr ""
+
+#: ../admin/theme-functions.php:4718 ../admin/theme-functions.php:4718 ..
+#: /admin/theme-functions.php:4724 ../admin/theme-functions.php:4724 ..
+#: /admin/theme-functions.php:4729 ../admin/theme-functions.php:4729 ..
+#: /admin/theme-functions.php:4734
+msgid "Y"
+msgstr ""
+
+#: ../admin/theme-functions.php:4719 ../admin/theme-functions.php:4719 ..
+#: /admin/theme-functions.php:4730
+msgid "F"
+msgstr ""
+
+#: ../admin/theme-functions.php:4720
+msgid "j"
+msgstr ""
+
+#: ../admin/theme-functions.php:4725
+#, php-format
+msgid "Week %1$s"
+msgstr ""
+
+#: ../admin/theme-functions.php:4725
+msgid "W"
+msgstr ""
+
+#: ../admin/theme-functions.php:4741
+#, php-format
+msgid "Search results for &quot;%1$s&quot;"
+msgstr ""
+
+#: ../admin/theme-functions.php:4745
+msgid "404 Not Found"
+msgstr ""
+
+#: ../admin/ct-child-theme/ct-child-theme.php:115
+msgid "<h2>Theme Switched</h2>"
+msgstr ""
+
+#: ../admin/ct-child-theme/ct-child-theme.php:116
+#, php-format
+msgid ""
+"<p><strong>Your new child theme has been created!</strong> You can now start "
+"customizing <a href=\"%s\">here</a>.</p>"
+msgstr ""
+
+#: ../admin/ct-child-theme/panel.php:11
+msgid "Create a Child Theme"
+msgstr ""
+
+#: ../admin/ct-child-theme/panel.php:13
+#, php-format
+msgid ""
+"Easily create a child theme based on <strong>%s</strong> by filling out this "
+"form. This saves you time later when updates are released you don't have to "
+"worry about overwritting your customizations."
+msgstr ""
+
+#: ../admin/ct-child-theme/panel.php:15
+msgid ""
+"Once you've created your child theme you can modify the CSS via Appearance > "
+"Editor. You can also do more advanced customizations, more on that <a "
+"href=\"http://wp.contempographicdesign.com/wp-real-estate-"
+"7/documentation/#childthemes\" target=\"_blank\">here</a>."
+msgstr ""
+
+#: ../admin/ct-child-theme/panel.php:29
+msgid "Give your theme a name:"
+msgstr ""
+
+#: ../admin/ct-child-theme/panel.php:35
+msgid "Describe your theme:"
+msgstr ""
+
+#: ../admin/ct-child-theme/panel.php:41
+msgid "Your Name:"
+msgstr ""
+
+#: ../admin/ct-child-theme/panel.php:46
+msgid "Create Child"
+msgstr ""
+
+#: ../admin/ct-social/ct-social.php:28
+msgid "CT Social"
+msgstr ""
+
+#: ../admin/ct-social/ct-social.php:130 ../includes/widgets/ct-widget-agentinfo.
+#: php:97 ../includes/widgets/ct-widget-agentsotherlistings.php:271 ..
+#: /includes/widgets/ct-widget-blogauthor.php:60 ../includes/widgets/ct-widget-
+#: brokerinfo.php:78 ../includes/widgets/ct-widget-contactinfo.php:119 ..
+#: /includes/widgets/ct-widget-latestposts.php:70 ../includes/widgets/ct-widget-
+#: listings.php:121 ../includes/widgets/ct-widget-listingscontact.php:68 ..
+#: /includes/widgets/ct-widget-listingssearch.php:286 ../includes/widgets/ct-
+#: widget-search.php:40 ../includes/widgets/ct-widget-testimonials.php:62
+msgid "Title:"
+msgstr ""
+
+#: ../admin/ct-social/ct-social.php:134
+msgid "Dribbble:"
+msgstr ""
+
+#: ../admin/ct-social/ct-social.php:138 ../includes/widgets/ct-widget-contactinfo.
+#: php:155
+msgid "Email:"
+msgstr ""
+
+#: ../admin/ct-social/ct-social.php:142 ../includes/widgets/ct-widget-contactinfo.
+#: php:159
+msgid "Facebook:"
+msgstr ""
+
+#: ../admin/ct-social/ct-social.php:146
+msgid "Flickr:"
+msgstr ""
+
+#: ../admin/ct-social/ct-social.php:150
+msgid "Foursquare:"
+msgstr ""
+
+#: ../admin/ct-social/ct-social.php:154
+msgid "GitHub:"
+msgstr ""
+
+#: ../admin/ct-social/ct-social.php:158 ../includes/widgets/ct-widget-contactinfo.
+#: php:167
+msgid "Google+:"
+msgstr ""
+
+#: ../admin/ct-social/ct-social.php:162 ../includes/widgets/ct-widget-contactinfo.
+#: php:179
+msgid "Instagram:"
+msgstr ""
+
+#: ../admin/ct-social/ct-social.php:166 ../includes/widgets/ct-widget-contactinfo.
+#: php:171
+msgid "LinkedIn:"
+msgstr ""
+
+#: ../admin/ct-social/ct-social.php:170
+msgid "Medium:"
+msgstr ""
+
+#: ../admin/ct-social/ct-social.php:174 ../includes/widgets/ct-widget-contactinfo.
+#: php:175
+msgid "Pinterest:"
+msgstr ""
+
+#: ../admin/ct-social/ct-social.php:178
+msgid "Skype:"
+msgstr ""
+
+#: ../admin/ct-social/ct-social.php:182 ../includes/widgets/ct-widget-contactinfo.
+#: php:163
+msgid "Twitter:"
+msgstr ""
+
+#: ../admin/ct-social/ct-social.php:186
+msgid "YouTube:"
+msgstr ""
+
+#: ../admin/ct-social/ct-social.php:190
+msgid "Links:"
+msgstr ""
+
+#: ../admin/plugins/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../admin/plugins/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: ../admin/plugins/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../admin/plugins/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: ../admin/plugins/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../admin/plugins/class-tgm-plugin-activation.php:377
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../admin/plugins/class-tgm-plugin-activation.php:382
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../admin/plugins/class-tgm-plugin-activation.php:387
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../admin/plugins/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../admin/plugins/class-tgm-plugin-activation.php:393 ../admin/plugins/class-
+#: tgm-plugin-activation.php:920 ../admin/plugins/class-tgm-plugin-activation.php:
+#: 2626 ../admin/plugins/class-tgm-plugin-activation.php:3673
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../admin/plugins/class-tgm-plugin-activation.php:394 ../admin/plugins/class-
+#: tgm-plugin-activation.php:3252
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../admin/plugins/class-tgm-plugin-activation.php:395 ../admin/plugins/class-
+#: tgm-plugin-activation.php:3045
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../admin/plugins/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: ../admin/plugins/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: ../admin/plugins/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../admin/plugins/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../admin/plugins/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: ../admin/plugins/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: ../admin/plugins/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: ../admin/plugins/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: ../admin/plugins/class-tgm-plugin-activation.php:725
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: ../admin/plugins/class-tgm-plugin-activation.php:1027
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: ../admin/plugins/class-tgm-plugin-activation.php:1027 ../admin/plugins/class-
+#: tgm-plugin-activation.php:1030
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: ../admin/plugins/class-tgm-plugin-activation.php:1030
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: ../admin/plugins/class-tgm-plugin-activation.php:1214 ../admin/plugins/class-
+#: tgm-plugin-activation.php:3041
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+#: ../admin/plugins/class-tgm-plugin-activation.php:2075
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: ../admin/plugins/class-tgm-plugin-activation.php:2366
+msgid "Required"
+msgstr ""
+
+#: ../admin/plugins/class-tgm-plugin-activation.php:2369
+msgid "Recommended"
+msgstr ""
+
+#: ../admin/plugins/class-tgm-plugin-activation.php:2385
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../admin/plugins/class-tgm-plugin-activation.php:2388
+msgid "External Source"
+msgstr ""
+
+#: ../admin/plugins/class-tgm-plugin-activation.php:2391
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../admin/plugins/class-tgm-plugin-activation.php:2408
+msgid "Not Installed"
+msgstr ""
+
+#: ../admin/plugins/class-tgm-plugin-activation.php:2412
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../admin/plugins/class-tgm-plugin-activation.php:2414 ..
+#: /admin/ReduxFramework/ReduxCore/inc/fields/link_color/field_link_color.php:100
+msgid "Active"
+msgstr ""
+
+#: ../admin/plugins/class-tgm-plugin-activation.php:2420
+msgid "Required Update not Available"
+msgstr ""
+
+#: ../admin/plugins/class-tgm-plugin-activation.php:2423
+msgid "Requires Update"
+msgstr ""
+
+#: ../admin/plugins/class-tgm-plugin-activation.php:2426
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: ../admin/plugins/class-tgm-plugin-activation.php:2435
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: ../admin/plugins/class-tgm-plugin-activation.php:2481
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../admin/plugins/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../admin/plugins/class-tgm-plugin-activation.php:2489
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../admin/plugins/class-tgm-plugin-activation.php:2493
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../admin/plugins/class-tgm-plugin-activation.php:2575
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: ../admin/plugins/class-tgm-plugin-activation.php:2583
+msgid "Installed version:"
+msgstr ""
+
+#: ../admin/plugins/class-tgm-plugin-activation.php:2591
+msgid "Minimum required version:"
+msgstr ""
+
+#: ../admin/plugins/class-tgm-plugin-activation.php:2603
+msgid "Available version:"
+msgstr ""
+
+#: ../admin/plugins/class-tgm-plugin-activation.php:2626
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: ../admin/plugins/class-tgm-plugin-activation.php:2640
+msgid "Plugin"
+msgstr ""
+
+#: ../admin/plugins/class-tgm-plugin-activation.php:2641
+msgid "Source"
+msgstr ""
+
+#: ../admin/plugins/class-tgm-plugin-activation.php:2646 ..
+#: /admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:715
+msgid "Version"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: ../admin/plugins/class-tgm-plugin-activation.php:2696
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: ../admin/plugins/class-tgm-plugin-activation.php:2701
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: ../admin/plugins/class-tgm-plugin-activation.php:2707
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: ../admin/plugins/class-tgm-plugin-activation.php:2777
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: ../admin/plugins/class-tgm-plugin-activation.php:2810
+msgid "Install"
+msgstr ""
+
+#: ../admin/plugins/class-tgm-plugin-activation.php:2816
+msgid "Update"
+msgstr ""
+
+#: ../admin/plugins/class-tgm-plugin-activation.php:2819
+msgid "Activate"
+msgstr ""
+
+#: ../admin/plugins/class-tgm-plugin-activation.php:2850
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: ../admin/plugins/class-tgm-plugin-activation.php:2852
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: ../admin/plugins/class-tgm-plugin-activation.php:2893
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../admin/plugins/class-tgm-plugin-activation.php:2895
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: ../admin/plugins/class-tgm-plugin-activation.php:3001
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: ../admin/plugins/class-tgm-plugin-activation.php:3027
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: ../admin/plugins/class-tgm-plugin-activation.php:3251
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../admin/plugins/class-tgm-plugin-activation.php:3591
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../admin/plugins/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../admin/plugins/class-tgm-plugin-activation.php:3596
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../admin/plugins/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../admin/plugins/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../admin/plugins/class-tgm-plugin-activation.php:3602 ../admin/plugins/class-
+#: tgm-plugin-activation.php:3610
+msgid "Show Details"
+msgstr ""
+
+#: ../admin/plugins/class-tgm-plugin-activation.php:3602 ../admin/plugins/class-
+#: tgm-plugin-activation.php:3610
+msgid "Hide Details"
+msgstr ""
+
+#: ../admin/plugins/class-tgm-plugin-activation.php:3603
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../admin/plugins/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../admin/plugins/class-tgm-plugin-activation.php:3608
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../admin/plugins/class-tgm-plugin-activation.php:3610
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../admin/plugins/class-tgm-plugin-activation.php:3611
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../admin/plugins/class-tgm-plugin-activation.php:3613
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/extension_wbc_importer.php:236 ..
+#: /admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/wbc_importer/extension_wbc_importer.php:250
+msgid "Demo Already Imported"
+msgstr ""
+
+#: ../admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/extension_wbc_importer.php:262 ..
+#: /admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/extension_wbc_importer.php:264 ..
+#: /admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/wbc_importer/extension_wbc_importer.php:277 ..
+#: /admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/wbc_importer/extension_wbc_importer.php:279 ..
+#: /admin/ReduxFramework/theme-options/re7-config.php:2876
+msgid "Demo Importer"
+msgstr ""
+
+#: ../admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/extension_wbc_importer.php:269 ..
+#: /admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/wbc_importer/extension_wbc_importer.php:284
+msgid "Works best to import on a new install of WordPress"
+msgstr ""
+
+#: ../admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/inc/importer/parsers.php:42 ..
+#: /admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/inc/importer/parsers.php:72 ..
+#: /admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/inc/importer/parsers.php:80 ..
+#: /admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/wbc_importer/inc/importer/parsers.php:42 ..
+#: /admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/wbc_importer/inc/importer/parsers.php:72 ..
+#: /admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/wbc_importer/inc/importer/parsers.php:80
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: ../admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/inc/importer/parsers.php:43 ..
+#: /admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/wbc_importer/inc/importer/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: ../admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/inc/importer/parsers.php:84 ..
+#: /admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/inc/importer/parsers.php:89 ..
+#: /admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/inc/importer/parsers.php:279 ..
+#: /admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/inc/importer/parsers.php:468 ..
+#: /admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/wbc_importer/inc/importer/parsers.php:84 ..
+#: /admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/wbc_importer/inc/importer/parsers.php:89 ..
+#: /admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/wbc_importer/inc/importer/parsers.php:279 ..
+#: /admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/wbc_importer/inc/importer/parsers.php:468
+msgid "This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: ../admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/inc/importer/radium-importer.php:256 ..
+#: /admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/wbc_importer/inc/importer/radium-importer.php:256
+msgid "Theme options Import file could not be found. Please try again."
+msgstr ""
+
+#: ../admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/inc/importer/radium-importer.php:331 ..
+#: /admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/wbc_importer/inc/importer/radium-importer.php:331
+msgid "Widget Import file could not be found. Please try again."
+msgstr ""
+
+#: ../admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/inc/importer/radium-importer.php:405 ..
+#: /admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/wbc_importer/inc/importer/radium-importer.php:405
+msgid "Sidebar does not exist in theme (using Inactive)"
+msgstr ""
+
+#: ../admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/inc/importer/radium-importer.php:427 ..
+#: /admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/wbc_importer/inc/importer/radium-importer.php:427
+msgid "Site does not support widget"
+msgstr ""
+
+#: ../admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/inc/importer/radium-importer.php:450 ..
+#: /admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/wbc_importer/inc/importer/radium-importer.php:450
+msgid "Widget already exists"
+msgstr ""
+
+#: ../admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/inc/importer/radium-importer.php:499 ..
+#: /admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:116 ..
+#: /admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/wbc_importer/inc/importer/radium-importer.php:
+#: 499 ../admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/wbc_importer/wbc_importer/field_wbc_importer.
+#: php:116
+msgid "Imported"
+msgstr ""
+
+#: ../admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/inc/importer/radium-importer.php:502 ..
+#: /admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/wbc_importer/inc/importer/radium-importer.php:502
+msgid "Imported to Inactive"
+msgstr ""
+
+#: ../admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/inc/importer/radium-importer.php:509 ..
+#: /admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/wbc_importer/inc/importer/radium-importer.php:509
+msgid "No Title"
+msgstr ""
+
+#: ../admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/inc/importer/wordpress-importer.php:134 ..
+#: /admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/inc/importer/wordpress-importer.php:143 ..
+#: /admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/inc/importer/wordpress-importer.php:194 ..
+#: /admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/inc/importer/wordpress-importer.php:198 ..
+#: /admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/inc/importer/wordpress-importer.php:207 ..
+#: /admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/wbc_importer/inc/importer/wordpress-importer.
+#: php:134 ../admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/wbc_importer/inc/importer/wordpress-importer.
+#: php:143 ../admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/wbc_importer/inc/importer/wordpress-importer.
+#: php:194 ../admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/wbc_importer/inc/importer/wordpress-importer.
+#: php:198 ../admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/wbc_importer/inc/importer/wordpress-importer.
+#: php:207
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: ../admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/inc/importer/wordpress-importer.php:135 ..
+#: /admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/wbc_importer/inc/importer/wordpress-importer.
+#: php:135
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: ../admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/inc/importer/wordpress-importer.php:178 ..
+#: /admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/wbc_importer/inc/importer/wordpress-importer.
+#: php:178
+msgid "All done."
+msgstr ""
+
+#: ../admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/inc/importer/wordpress-importer.php:178 ..
+#: /admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/wbc_importer/inc/importer/wordpress-importer.
+#: php:178
+msgid "Have fun!"
+msgstr ""
+
+#: ../admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/inc/importer/wordpress-importer.php:179 ..
+#: /admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/wbc_importer/inc/importer/wordpress-importer.
+#: php:179
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: ../admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/inc/importer/wordpress-importer.php:199 ..
+#: /admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/wbc_importer/inc/importer/wordpress-importer.
+#: php:199
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: ../admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/inc/importer/wordpress-importer.php:215 ..
+#: /admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/wbc_importer/inc/importer/wordpress-importer.
+#: php:215
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: ../admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/inc/importer/wordpress-importer.php:240 ..
+#: /admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/wbc_importer/inc/importer/wordpress-importer.
+#: php:240
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: ../admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/inc/importer/wordpress-importer.php:266 ..
+#: /admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/wbc_importer/inc/importer/wordpress-importer.
+#: php:266
+msgid "Assign Authors"
+msgstr ""
+
+#: ../admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/inc/importer/wordpress-importer.php:267 ..
+#: /admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/wbc_importer/inc/importer/wordpress-importer.
+#: php:267
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as "
+"<code>admin</code>s entries."
+msgstr ""
+
+#: ../admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/inc/importer/wordpress-importer.php:269 ..
+#: /admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/wbc_importer/inc/importer/wordpress-importer.
+#: php:269
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: ../admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/inc/importer/wordpress-importer.php:279 ..
+#: /admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/wbc_importer/inc/importer/wordpress-importer.
+#: php:279
+msgid "Import Attachments"
+msgstr ""
+
+#: ../admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/inc/importer/wordpress-importer.php:282 ..
+#: /admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/wbc_importer/inc/importer/wordpress-importer.
+#: php:282
+msgid "Download and import file attachments"
+msgstr ""
+
+#: ../admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/inc/importer/wordpress-importer.php:299 ..
+#: /admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/wbc_importer/inc/importer/wordpress-importer.
+#: php:299
+msgid "Import author:"
+msgstr ""
+
+#: ../admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/inc/importer/wordpress-importer.php:310 ..
+#: /admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/wbc_importer/inc/importer/wordpress-importer.
+#: php:310
+msgid "or create new user with login name:"
+msgstr ""
+
+#: ../admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/inc/importer/wordpress-importer.php:313 ..
+#: /admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/wbc_importer/inc/importer/wordpress-importer.
+#: php:313
+msgid "as a new user:"
+msgstr ""
+
+#: ../admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/inc/importer/wordpress-importer.php:321 ..
+#: /admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/wbc_importer/inc/importer/wordpress-importer.
+#: php:321
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: ../admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/inc/importer/wordpress-importer.php:323 ..
+#: /admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/wbc_importer/inc/importer/wordpress-importer.
+#: php:323
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: ../admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/inc/importer/wordpress-importer.php:324 ..
+#: /admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/wbc_importer/inc/importer/wordpress-importer.
+#: php:324
+msgid "- Select -"
+msgstr ""
+
+#: ../admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/inc/importer/wordpress-importer.php:374 ..
+#: /admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/wbc_importer/inc/importer/wordpress-importer.
+#: php:374
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: ../admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/inc/importer/wordpress-importer.php:425 ..
+#: /admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/wbc_importer/inc/importer/wordpress-importer.
+#: php:425
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: ../admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/inc/importer/wordpress-importer.php:465 ..
+#: /admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/wbc_importer/inc/importer/wordpress-importer.
+#: php:465
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: ../admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/inc/importer/wordpress-importer.php:511 ..
+#: /admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/inc/importer/wordpress-importer.php:652 ..
+#: /admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/wbc_importer/inc/importer/wordpress-importer.
+#: php:511 ../admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/wbc_importer/inc/importer/wordpress-importer.
+#: php:652
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: ../admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/inc/importer/wordpress-importer.php:537 ..
+#: /admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/wbc_importer/inc/importer/wordpress-importer.
+#: php:537
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: ../admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/inc/importer/wordpress-importer.php:559 ..
+#: /admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/wbc_importer/inc/importer/wordpress-importer.
+#: php:559
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: ../admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/inc/importer/wordpress-importer.php:618 ..
+#: /admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/wbc_importer/inc/importer/wordpress-importer.
+#: php:618
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: ../admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/inc/importer/wordpress-importer.php:783 ..
+#: /admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/wbc_importer/inc/importer/wordpress-importer.
+#: php:783
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: ../admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/inc/importer/wordpress-importer.php:790 ..
+#: /admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/wbc_importer/inc/importer/wordpress-importer.
+#: php:790
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: ../admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/inc/importer/wordpress-importer.php:853 ..
+#: /admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/wbc_importer/inc/importer/wordpress-importer.
+#: php:853
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: ../admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/inc/importer/wordpress-importer.php:866 ..
+#: /admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/wbc_importer/inc/importer/wordpress-importer.
+#: php:866
+msgid "Invalid file type"
+msgstr ""
+
+#: ../admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/inc/importer/wordpress-importer.php:910 ..
+#: /admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/wbc_importer/inc/importer/wordpress-importer.
+#: php:910
+msgid "Remote server did not respond"
+msgstr ""
+
+#: ../admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/inc/importer/wordpress-importer.php:916 ..
+#: /admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/wbc_importer/inc/importer/wordpress-importer.
+#: php:916
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: ../admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/inc/importer/wordpress-importer.php:923 ..
+#: /admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/wbc_importer/inc/importer/wordpress-importer.
+#: php:923
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: ../admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/inc/importer/wordpress-importer.php:928 ..
+#: /admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/wbc_importer/inc/importer/wordpress-importer.
+#: php:928
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: ../admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/inc/importer/wordpress-importer.php:934 ..
+#: /admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/wbc_importer/inc/importer/wordpress-importer.
+#: php:934
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: ../admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/inc/importer/wordpress-importer.php:1032 ..
+#: /admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/wbc_importer/inc/importer/wordpress-importer.
+#: php:1032
+msgid "Import WordPress"
+msgstr ""
+
+#: ../admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/inc/importer/wordpress-importer.php:1039 ..
+#: /admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/wbc_importer/inc/importer/wordpress-importer.
+#: php:1039
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: ../admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/inc/importer/wordpress-importer.php:1054 ..
+#: /admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/wbc_importer/inc/importer/wordpress-importer.
+#: php:1054
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: ../admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/inc/importer/wordpress-importer.php:1055 ..
+#: /admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/wbc_importer/inc/importer/wordpress-importer.
+#: php:1055
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: ../admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:93 ..
+#: /admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:114 ..
+#: /admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/wbc_importer/wbc_importer/field_wbc_importer.
+#: php:93 ../admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/wbc_importer/wbc_importer/field_wbc_importer.
+#: php:114
+msgid "Import Demo"
+msgstr ""
+
+#: ../admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:97 ..
+#: /admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/wbc_importer/wbc_importer/field_wbc_importer.
+#: php:97
+msgid "Demo Imported"
+msgstr ""
+
+#: ../admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:114 ..
+#: /admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:117 ..
+#: /admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/wbc_importer/wbc_importer/field_wbc_importer.
+#: php:114 ../admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/wbc_importer/wbc_importer/field_wbc_importer.
+#: php:117
+msgid "Please Wait..."
+msgstr ""
+
+#: ../admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:118 ..
+#: /admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/wbc_importer/wbc_importer/field_wbc_importer.
+#: php:118
+msgid "Re-Import"
+msgstr ""
+
+#: ../admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:127 ..
+#: /admin/ReduxFramework/redux-extensions-
+#: loader/extensions/wbc_importer/wbc_importer/wbc_importer/field_wbc_importer.
+#: php:127
+msgid "No Demo Data Provided"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/framework.php:220
+#, php-format
+msgid "Options panel created using %1$s"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/framework.php:220 ..
+#: /admin/ReduxFramework/ReduxCore/inc/welcome/welcome.php:205
+msgid "Redux Framework"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/framework.php:224 ..
+#: /admin/ReduxFramework/ReduxCore/framework.php:228
+msgid "Options"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/framework.php:1751
+msgid "Enable"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/framework.php:1756
+msgid "Disable"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/framework.php:1762
+msgid "moving the mouse over"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/framework.php:1764
+msgid "clicking"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/framework.php:1768
+#, php-format
+msgid ""
+"Hints are tooltips that popup when %d the hint icon, offering addition "
+"information about the field in which they appear.  They can be %d d by using "
+"the link below."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/framework.php:1773
+msgid "Hints"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/framework.php:1900
+msgid "Default"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/framework.php:2778
+msgid "Invalid security credential.  Please reload the page and try again."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/framework.php:2787
+msgid "Invalid user capability.  Please reload the page and try again."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/framework.php:2867
+msgid "Your panel has no fields. Nothing to save."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/framework.php:3977
+msgid ""
+"<strong>Redux Framework Notice: </strong>There are references to the Redux "
+"Framework support site in your config's <code>admin_bar_links</code> "
+"argument.  This is sample data.  Please change or remove this data before "
+"shipping your product."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/framework.php:3992
+msgid ""
+"<strong>Redux Framework Notice: </strong>There are references to the Redux "
+"Framework support site in your config's <code>share_icons</code> argument.  "
+"This is sample data.  Please change or remove this data before shipping your "
+"product."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/core/enqueue.php:452 ..
+#: /admin/ReduxFramework/ReduxCore/inc/extensions/customizer/extension_customizer.
+#: php:685
+msgid "You have changes that are not saved. Would you like to save them now?"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/core/enqueue.php:460 ..
+#: /admin/ReduxFramework/ReduxCore/inc/extensions/customizer/extension_customizer.
+#: php:686
+msgid "Are you sure? Resetting will lose all custom values."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/core/enqueue.php:468
+msgid "Are you sure? Resetting will lose all custom values in this section."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/core/enqueue.php:476 ..
+#: /admin/ReduxFramework/ReduxCore/inc/extensions/customizer/extension_customizer.
+#: php:687
+msgid ""
+"Your current options will be replaced with the values of this preset. Would "
+"you like to proceed?"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/core/enqueue.php:483
+msgid "Please Wait"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/core/enqueue.php:494
+msgid "There was an error saving. Here is the result of your action:"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/core/enqueue.php:495
+msgid "There was a problem with your action. Please try again or reload the page."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/core/panel.php:65
+msgid "Warning- This options panel will not work properly without javascript!"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/core/panel.php:141
+msgid "Settings Imported!"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/core/panel.php:156
+msgid "All Defaults Restored!"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/core/panel.php:170
+msgid "Section Defaults Restored!"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/core/panel.php:184
+msgid "Settings Saved!"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/core/panel.php:204
+msgid "Settings have changed, you should save them!"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/core/panel.php:212
+msgid "error(s) were found!"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/core/panel.php:220
+msgid "warning(s) were found!"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/core/panel.php:312
+msgid ""
+"<strong>Your panel has bundled outdated copies of Redux Framework template "
+"files</strong> &#8211; if you encounter functionality issues this could be "
+"the reason. Ensure you update or remove them."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/class.redux_admin_notices.php:97
+msgid "Dismiss"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/class.redux_cdn.php:74
+msgid ""
+"Please wait a few minutes, then try refreshing the page. Unable to load some "
+"remotely hosted scripts."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/class.redux_cdn.php:76
+#, php-format
+msgid ""
+"If you are developing offline, please download and install the <a href=\"%s\" "
+"target=\"_blank\">Redux Vendor Support</a> plugin/extension to bypass the our "
+"CDN and avoid this warning"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/class.redux_cdn.php:81
+msgid "Redux Framework Warning"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/class.redux_cdn.php:81
+#, php-format
+msgid "%s CDN unavailable.  Some controls may not render properly."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/class.redux_cdn.php:113
+#, php-format
+msgid ""
+"The <a href=\"%s\">Vendor Support plugin</a> (or extension) is either not "
+"installed or not activated and thus, some controls may not render properly.  "
+"Please ensure that it is installed and <a href=\"%s\">activated</a>"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/class.redux_filesystem.php:31 ..
+#: /admin/ReduxFramework/ReduxCore/inc/class.redux_filesystem.php:60 ..
+#: /admin/ReduxFramework/ReduxCore/inc/class.redux_filesystem.php:271
+msgid "File Permission Issues"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/class.redux_filesystem.php:31
+#, php-format
+msgid ""
+"We were unable to modify required files. Please check your permissions, or "
+"modify your wp-config.php file to contain your FTP login credentials as <a "
+"href=\"%s\" target=\"_blank\">outlined here</a>."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/class.redux_filesystem.php:60 ..
+#: /admin/ReduxFramework/ReduxCore/inc/class.redux_filesystem.php:271
+#, php-format
+msgid ""
+"We were unable to modify required files. Please ensure that <code>%1s</code> "
+"has the proper read-write permissions, or modify your wp-config.php file to "
+"contain your FTP login credentials as <a href=\"%2s\" target=\"_blank\">outlined "
+"here</a>."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/class.redux_helpers.php:610
+#, php-format
+msgid ""
+"<code>%s</code> version <strong style=\"color:red\">%s</strong> is out of date."
+" The core version is %s"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/tracking.php:129
+msgid "Help improve Our Panel"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/tracking.php:130
+msgid ""
+"Please helps us improve our panel by allowing us to gather anonymous usage "
+"stats so we know which configurations, plugins and themes to test to ensure "
+"compatibility."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/tracking.php:135
+msgid "Allow tracking"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/tracking.php:140
+msgid "Do not allow tracking"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/tracking.php:151
+msgid "Welcome to the Redux Demo Panel"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/tracking.php:152
+msgid "Getting Started"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/tracking.php:152
+#, php-format
+msgid ""
+"This panel demonstrates the many features of Redux.  Before digging in, we "
+"suggest you get up to speed by reviewing %1$s."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/tracking.php:152
+msgid "our documentation"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/tracking.php:153 ..
+#: /admin/ReduxFramework/ReduxCore/inc/tracking.php:153
+msgid "Redux Generator"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/tracking.php:153
+#, php-format
+msgid ""
+"Want to get a head start? Use the %1$s. It will create a customized "
+"boilerplate theme or a standalone admin folder complete with all things "
+"Redux (with the help of Underscores and TGM). Save yourself a headache and "
+"try it today."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/tracking.php:154 ..
+#: /admin/ReduxFramework/ReduxCore/inc/welcome/welcome.php:229 ..
+#: /admin/ReduxFramework/ReduxCore/inc/welcome/welcome.php:229
+msgid "Redux Extensions"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/tracking.php:154
+#, php-format
+msgid ""
+"Did you know we have extensions, which greatly enhance the features of Redux?"
+"  Visit our %1$s to learn more!"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/tracking.php:154
+msgid "extensions directory"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/tracking.php:155
+msgid "Like Redux?"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/tracking.php:155
+#, php-format
+msgid ""
+"If so, please %1$s and consider making a %2$s to keep development of Redux "
+"moving forward."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/tracking.php:155
+msgid "leave us a favorable review on WordPress.org"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/tracking.php:155
+msgid "donation"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/tracking.php:156
+msgid "Newsletter"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/tracking.php:156
+msgid ""
+"If you'd like to keep up to with all things Redux, please subscribe to our "
+"newsletter"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/tracking.php:157
+msgid "Email address"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/tracking.php:157
+msgid "Subscribe"
+msgstr ""
+
+#: ..
+#: /admin/ReduxFramework/ReduxCore/inc/extensions/customizer/extension_customizer.
+#: php:720
+msgid "You have changes that are not saved.  Would you like to save them now?"
+msgstr ""
+
+#: ..
+#: /admin/ReduxFramework/ReduxCore/inc/extensions/customizer/extension_customizer.
+#: php:721
+msgid "Are you sure?  Resetting will lose all custom values."
+msgstr ""
+
+#: ..
+#: /admin/ReduxFramework/ReduxCore/inc/extensions/customizer/extension_customizer.
+#: php:722
+msgid ""
+"Your current options will be replaced with the values of this preset.  Would "
+"you like to proceed?"
+msgstr ""
+
+#: ..
+#: /admin/ReduxFramework/ReduxCore/inc/extensions/customizer/inc/customizer_panel.
+#: php:89
+msgid "Press return or enter to open this panel"
+msgstr ""
+
+#. translators: %s is the site/panel title in the Customizer
+#. translators: %s is the site/panel title in the Customizer
+#: ..
+#: /admin/ReduxFramework/ReduxCore/inc/extensions/customizer/inc/customizer_panel.
+#: php:114 ..
+#: /admin/ReduxFramework/ReduxCore/inc/extensions/customizer/inc/customizer_panel.
+#: php:142
+#, php-format
+msgid "You are customizing %s"
+msgstr ""
+
+#: ..
+#: /admin/ReduxFramework/ReduxCore/inc/extensions/customizer/inc/customizer_panel.
+#: php:138 ..
+#: /admin/ReduxFramework/ReduxCore/inc/extensions/customizer/inc/customizer_section
+#: .php:79
+msgid "Back"
+msgstr ""
+
+#: ..
+#: /admin/ReduxFramework/ReduxCore/inc/extensions/customizer/inc/customizer_panel.
+#: php:146
+msgid "Help"
+msgstr ""
+
+#: ..
+#: /admin/ReduxFramework/ReduxCore/inc/extensions/customizer/inc/customizer_section
+#: .php:72
+msgid "Press return or enter to open"
+msgstr ""
+
+#: ..
+#: /admin/ReduxFramework/ReduxCore/inc/extensions/customizer/inc/customizer_section
+#: .php:122
+msgid "Press return or enter to expand"
+msgstr ""
+
+#: ..
+#: /admin/ReduxFramework/ReduxCore/inc/extensions/import_export/extension_import_ex
+#: port.php:120
+msgid "Import / Export"
+msgstr ""
+
+#: ..
+#: /admin/ReduxFramework/ReduxCore/inc/extensions/import_export/import_export/field
+#: _import_export.php:91
+msgid "Import Options"
+msgstr ""
+
+#: ..
+#: /admin/ReduxFramework/ReduxCore/inc/extensions/import_export/import_export/field
+#: _import_export.php:95
+msgid "Import from File"
+msgstr ""
+
+#: ..
+#: /admin/ReduxFramework/ReduxCore/inc/extensions/import_export/import_export/field
+#: _import_export.php:98
+msgid "Import from URL"
+msgstr ""
+
+#: ..
+#: /admin/ReduxFramework/ReduxCore/inc/extensions/import_export/import_export/field
+#: _import_export.php:104
+msgid ""
+"Input your backup file below and hit Import to restore your sites options "
+"from a backup."
+msgstr ""
+
+#: ..
+#: /admin/ReduxFramework/ReduxCore/inc/extensions/import_export/import_export/field
+#: _import_export.php:111
+msgid ""
+"Input the URL to another sites options set and hit Import to load the "
+"options from that site."
+msgstr ""
+
+#: ..
+#: /admin/ReduxFramework/ReduxCore/inc/extensions/import_export/import_export/field
+#: _import_export.php:116
+msgid "Import"
+msgstr ""
+
+#: ..
+#: /admin/ReduxFramework/ReduxCore/inc/extensions/import_export/import_export/field
+#: _import_export.php:116
+msgid ""
+"WARNING! This will overwrite all existing option values, please proceed with "
+"caution!"
+msgstr ""
+
+#: ..
+#: /admin/ReduxFramework/ReduxCore/inc/extensions/import_export/import_export/field
+#: _import_export.php:120
+msgid "Export Options"
+msgstr ""
+
+#: ..
+#: /admin/ReduxFramework/ReduxCore/inc/extensions/import_export/import_export/field
+#: _import_export.php:124
+msgid ""
+"Here you can copy/download your current option settings. Keep this safe as "
+"you can use it as a backup should anything go wrong, or you can use it to "
+"restore your settings on this site (or any other site)."
+msgstr ""
+
+#: ..
+#: /admin/ReduxFramework/ReduxCore/inc/extensions/import_export/import_export/field
+#: _import_export.php:132
+msgid "Copy Data"
+msgstr ""
+
+#: ..
+#: /admin/ReduxFramework/ReduxCore/inc/extensions/import_export/import_export/field
+#: _import_export.php:133
+msgid "Download Data File"
+msgstr ""
+
+#: ..
+#: /admin/ReduxFramework/ReduxCore/inc/extensions/import_export/import_export/field
+#: _import_export.php:134
+msgid "Copy Export URL"
+msgstr ""
+
+#: ..
+#: /admin/ReduxFramework/ReduxCore/inc/extensions/options_object/extension_options_
+#: object.php:82 ..
+#: /admin/ReduxFramework/ReduxCore/inc/extensions/options_object/options_object/fie
+#: ld_options_object.php:104
+msgid "Options Object"
+msgstr ""
+
+#: ..
+#: /admin/ReduxFramework/ReduxCore/inc/extensions/options_object/options_object/fie
+#: ld_options_object.php:107
+msgid "Show Object in Javascript Console Object"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/background/field_background.php:
+#: 124 ../admin/ReduxFramework/ReduxCore/inc/fields/color/field_color.php:73 ..
+#: /admin/ReduxFramework/ReduxCore/inc/fields/color_gradient/field_color_gradient.
+#: php:79 ..
+#: /admin/ReduxFramework/ReduxCore/inc/fields/color_gradient/field_color_gradient.
+#: php:91
+msgid "Transparent"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/background/field_background.php:141
+msgid "Background Repeat"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/background/field_background.php:157
+msgid "Background Clip"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/background/field_background.php:173
+msgid "Background Origin"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/background/field_background.php:188
+msgid "Background Size"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/background/field_background.php:203
+msgid "Background Attachment"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/background/field_background.php:223
+msgid "Background Position"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/background/field_background.php:
+#: 277 ../admin/ReduxFramework/ReduxCore/inc/fields/media/field_media.php:149
+msgid "No media selected"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/background/field_background.php:
+#: 314 ../admin/ReduxFramework/ReduxCore/inc/fields/media/field_media.php:198 ..
+#: /admin/ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:126 ..
+#: /admin/ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:188
+msgid "Upload"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/background/field_background.php:
+#: 321 ../admin/ReduxFramework/ReduxCore/inc/fields/media/field_media.php:205 ..
+#: /admin/ReduxFramework/ReduxCore/inc/fields/multi_text/field_multi_text.php:69 .
+#: ./admin/ReduxFramework/ReduxCore/inc/fields/multi_text/field_multi_text.php:73 
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/multi_text/field_multi_text.php:
+#: 76 ../admin/ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:133 ..
+#: /admin/ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:190
+msgid "Remove"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/border/field_border.php:125 ..
+#: /admin/ReduxFramework/ReduxCore/inc/fields/spacing/field_spacing.php:191 ..
+#: /includes/widgets/ct-widget-blogauthor.php:93
+msgid "All"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/border/field_border.php:138 ..
+#: /admin/ReduxFramework/ReduxCore/inc/fields/spacing/field_spacing.php:215
+msgid "Top"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/border/field_border.php:145 ..
+#: /admin/ReduxFramework/ReduxCore/inc/fields/spacing/field_spacing.php:222 ..
+#: /includes/widgets/ct-widget-blogauthor.php:79
+msgid "Right"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/border/field_border.php:152 ..
+#: /admin/ReduxFramework/ReduxCore/inc/fields/spacing/field_spacing.php:229
+msgid "Bottom"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/border/field_border.php:159 ..
+#: /admin/ReduxFramework/ReduxCore/inc/fields/spacing/field_spacing.php:236 ..
+#: /includes/widgets/ct-widget-blogauthor.php:78
+msgid "Left"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/border/field_border.php:174
+msgid "Border style"
+msgstr ""
+
+#: ..
+#: /admin/ReduxFramework/ReduxCore/inc/fields/color_gradient/field_color_gradient.
+#: php:68
+msgid "From "
+msgstr ""
+
+#: ..
+#: /admin/ReduxFramework/ReduxCore/inc/fields/color_gradient/field_color_gradient.
+#: php:82
+msgid "To "
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/dimensions/field_dimensions.php:162
+msgid "Width"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/dimensions/field_dimensions.php:
+#: 178 ../admin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.
+#: php:442
+msgid "Height"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/dimensions/field_dimensions.php:
+#: 189 ../admin/ReduxFramework/ReduxCore/inc/fields/dimensions/field_dimensions.
+#: php:190 ..
+#: /admin/ReduxFramework/ReduxCore/inc/fields/dimensions/field_dimensions.php:190 
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/spacing/field_spacing.php:245 ..
+#: /admin/ReduxFramework/ReduxCore/inc/fields/spacing/field_spacing.php:246 ..
+#: /admin/ReduxFramework/ReduxCore/inc/fields/spacing/field_spacing.php:246
+msgid "Units"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/gallery/field_gallery.php:73
+msgid "Add/Edit Gallery"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/gallery/field_gallery.php:74
+msgid "Clear Gallery"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/link_color/field_link_color.php:88
+msgid "Regular"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/link_color/field_link_color.php:92
+msgid "Hover"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/link_color/field_link_color.php:96
+msgid "Visited"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/multi_text/field_multi_text.php:61
+msgid "Add More"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/select/field_select.php:83 ..
+#: /admin/ReduxFramework/ReduxCore/inc/fields/select_image/field_select_image.php:
+#: 63
+msgid "Select an item"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/select/field_select.php:134 ..
+#: /admin/ReduxFramework/ReduxCore/inc/fields/select_image/field_select_image.php:
+#: 144
+msgid "No items of this type were found."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:68
+msgid "Slide"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:73 ..
+#: /admin/ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:174
+#, php-format
+msgid "New %s"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:153 ..
+#: /admin/ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:207
+msgid "URL"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:167 ..
+#: /admin/ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:220
+msgid "Delete"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:223
+#, php-format
+msgid "Add %s"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/switch/field_switch.php:41
+msgid "On"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/switch/field_switch.php:44
+msgid "Off"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:231
+msgid "Font Family"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:232
+msgid "Font family"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:
+#: 258 ../admin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.
+#: php:259
+msgid "Backup Font Family"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:
+#: 273 ../admin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.
+#: php:281
+msgid "Font style"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:274
+msgid "Font Weight &amp; Style"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:281
+msgid "Style"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:321
+msgid "Font subsets"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:323
+msgid "Font Subsets"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:325
+msgid "Subsets"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:325
+msgid "Font script"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:
+#: 342 ../admin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.
+#: php:343 ..
+#: /admin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:344 
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:344
+msgid "Text Align"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:
+#: 365 ../admin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.
+#: php:366 ..
+#: /admin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:367 
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:367
+msgid "Text Transform"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:
+#: 388 ../admin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.
+#: php:389 ..
+#: /admin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:390 
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:390
+msgid "Font Variant"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:
+#: 408 ../admin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.
+#: php:409 ..
+#: /admin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:410 
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:410
+msgid "Text Decoration"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:
+#: 432 ../admin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.
+#: php:433
+msgid "Font Size"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:
+#: 441 ../admin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.
+#: php:442
+msgid "Line Height"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:
+#: 450 ../admin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.
+#: php:451 ..
+#: /admin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:451
+msgid "Word Spacing"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:
+#: 459 ../admin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.
+#: php:460 ..
+#: /admin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:460
+msgid "Letter Spacing"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:478
+msgid "Font Color"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:480
+msgid "Font color"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:890
+msgid "Standard Fonts"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:991
+msgid "Google Webfonts"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/themecheck/checks/embedded.php:15
+#, php-format
+msgid ""
+"<span class=\"tc-lead tc-recommended\">RECOMMENDED</span>: If you are "
+"submitting to WordPress.org Theme Repository, it is "
+"<strong>strongly</strong> suggested that you read <a href=\"%s\" "
+"target=\"_blank\">this document</a>, or your theme will be rejected because of "
+"Redux."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/themecheck/checks/embedded.php:24
+#, php-format
+msgid ""
+"<span class=\"tc-lead tc-required\">REQUIRED</span>: You MUST delete <strong> "
+"%s </strong>, or your theme will be rejected by WP.org theme submission "
+"because of Redux."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/themecheck/checks/embedded.php:38
+msgid "Optional"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/themecheck/checks/embedded.php:40
+msgid ""
+"<span class=\"tc-lead tc-recommended\">RECOMMENDED</span>: The following "
+"arguments MUST be used for WP.org submissions, or you will be rejected "
+"because of your Redux configuration."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/themecheck/checks/full_package.php:16
+msgid "Redux localization utilities"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/themecheck/checks/full_package.php:17
+msgid "Redux Resting Diles"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/themecheck/checks/full_package.php:18
+msgid "Redux Code Styles"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/themecheck/checks/full_package.php:19
+msgid "Redux Unit Testing"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/themecheck/checks/full_package.php:20
+msgid "Redux Plugin File"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/themecheck/checks/full_package.php:21
+msgid "Redux Boostrap Tests"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/themecheck/checks/full_package.php:22
+msgid "CI Testing FIle"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/themecheck/checks/full_package.php:23
+msgid "PHP Unit Testing"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/themecheck/checks/full_package.php:36
+msgid ""
+"It appears that you have embedded the full Redux package inside your theme. "
+"You need only embed the <strong>ReduxCore</strong> folder. Embedding "
+"anything else will get your rejected from theme submission. Suspected Redux "
+"package file(s):"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/validation/color/validation_color.php:15 
+#: ..
+#: /admin/ReduxFramework/ReduxCore/inc/validation/color_rgba/validation_color_rgba.
+#: php:14 ..
+#: /admin/ReduxFramework/ReduxCore/inc/validation/colorrgba/validation_colorrgba.
+#: php:16
+msgid "This field must be a valid color value."
+msgstr ""
+
+#: ..
+#: /admin/ReduxFramework/ReduxCore/inc/validation/comma_numeric/validation_comma_nu
+#: meric.php:16
+msgid "You must provide a comma separated list of numerical values for this option."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/validation/css/validation_css.php:39
+msgid "Unsafe strings were found in your CSS and have been filtered out."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/validation/date/validation_date.php:16
+msgid "This field must be a valid date."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/validation/email/validation_email.php:16 
+#: ..
+#: /admin/ReduxFramework/ReduxCore/inc/validation/email_not_empty/validation_email_
+#: not_empty.php:16
+msgid "You must provide a valid email for this option."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/validation/no_html/validation_no_html.
+#: php:15
+msgid "You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+
+#: ..
+#: /admin/ReduxFramework/ReduxCore/inc/validation/no_special_chars/validation_no_sp
+#: ecial_chars.php:16
+msgid ""
+"You must not enter any special characters in this field, all special "
+"characters have been removed."
+msgstr ""
+
+#: ..
+#: /admin/ReduxFramework/ReduxCore/inc/validation/not_empty/validation_not_empty.
+#: php:16
+msgid "This field cannot be empty. Please provide a value."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/validation/numeric/validation_numeric.
+#: php:16 ..
+#: /admin/ReduxFramework/ReduxCore/inc/validation/numeric_not_empty/validation_nume
+#: ric_not_empty.php:16
+msgid "You must provide a numerical value for this option."
+msgstr ""
+
+#: ..
+#: /admin/ReduxFramework/ReduxCore/inc/validation/unique_slug/validation_unique_slu
+#: g.php:16
+#, php-format
+msgid ""
+"That URL slug is in use, please choose another. <code>%s</code> is open for "
+"use."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/validation/url/validation_url.php:16
+msgid "You must provide a valid URL for this option."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/welcome.php:106
+msgid ""
+"If you like <strong>Redux</strong> please leave us a <a href=\"https:"
+"//wordpress.org/support/view/plugin-reviews/redux-framework?"
+"filter=5#postform\" target=\"_blank\" class=\"redux-rating-link\" data-"
+"rated=\"Thanks :)\">&#9733;&#9733;&#9733;&#9733;&#9733;</a> rating. A huge "
+"thank you from Redux in advance!"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/welcome.php:183
+msgid "Support hash could not be generated. Please try again later."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/welcome.php:205
+msgid "Welcome to Redux Framework"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/welcome.php:213 ..
+#: /admin/ReduxFramework/ReduxCore/inc/welcome/welcome.php:213
+msgid "Redux Framework Changelog"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/welcome.php:221 ..
+#: /admin/ReduxFramework/ReduxCore/inc/welcome/welcome.php:221
+msgid "Get Support"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/welcome.php:238 ..
+#: /admin/ReduxFramework/ReduxCore/inc/welcome/welcome.php:238
+msgid "The people that develop Redux Framework"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/welcome.php:246 ..
+#: /admin/ReduxFramework/ReduxCore/inc/welcome/welcome.php:246
+msgid "Redux Framework Status"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/welcome.php:346
+msgid "What's New"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/welcome.php:349
+msgid "Extensions"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/welcome.php:352 ..
+#: /admin/ReduxFramework/theme-options/re7-config.php:2860
+msgid "Changelog"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/welcome.php:355
+msgid "Credits"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/welcome.php:358
+msgid "Support"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/welcome.php:521
+#, php-format
+msgid "View %s"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/about.php:2
+#, php-format
+msgid "Welcome to Redux Framework %s"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/about.php:5
+#, php-format
+msgid ""
+"Thank you for updating to the latest version! Redux Framework %s is a huge "
+"step forward in Redux Development. Look at all that's new."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/about.php:8 ..
+#: /admin/ReduxFramework/ReduxCore/inc/welcome/views/changelog.php:10 ..
+#: /admin/ReduxFramework/ReduxCore/inc/welcome/views/credits.php:10 ..
+#: /admin/ReduxFramework/ReduxCore/inc/welcome/views/extensions.php:81 ..
+#: /admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:34 ..
+#: /admin/ReduxFramework/ReduxCore/inc/welcome/views/support.php:8
+#, php-format
+msgid "Version %s"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/about.php:15
+msgid "What is Redux Framework?"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/about.php:17
+msgid ""
+"Redux Framework is the core of many products on the web. It is an option "
+"framework which developers use to\n"
+"            enhance their products."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/about.php:22
+msgid "Learn More"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/about.php:28
+msgid "New in this Release"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/changelog.php:2
+msgid "Redux Framework - Changelog"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/changelog.php:5 ..
+#: /admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:30
+msgid ""
+"Our core mantra at Redux is backwards compatibility. With hundreds of "
+"thousands of instances worldwide, you can be assured that we will take care "
+"of you and your clients."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/credits.php:2
+msgid "Redux Framework - A Community Effort"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/credits.php:5
+msgid ""
+"We recognize we are nothing without our community. We would like to thank "
+"all of those who help Redux to be what it is. Thank you for your involvement."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/credits.php:18
+#, php-format
+msgid ""
+"Redux is created by a community of developers world wide. Want to have your "
+"name listed too? <a href=\"%d\" target=\"_blank\">Contribute to Redux</a>."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/extensions.php:73
+msgid "Redux Framework - Extensions"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/extensions.php:76
+msgid ""
+"Supercharge your Redux experience. Our extensions provide you with features "
+"that will take your products to the next level."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/extensions.php:89
+msgid ""
+"While some are built specificially for developers, extensions such as Custom "
+"Fonts are sure to make any user happy."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:26
+msgid "Redux Framework - System Status"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:43
+msgid ""
+"Please copy and paste this information in your ticket when contacting "
+"support:"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:48
+msgid "Get System Report"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:53
+msgid "Understanding the Status Report"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:62
+msgid "Copied!"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:63
+msgid "Copy for Support"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:73
+msgid "WordPress Environment"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:80
+msgid "Home URL"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:83
+msgid "The URL of your site's homepage."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:89
+msgid "Site URL"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:92
+msgid "The root URL of your site."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:100
+msgid "Redux Version"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:103
+msgid "The version of Redux Framework installed on your site."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:111
+msgid "Redux Data Directory Writable"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:114
+msgid ""
+"Redux and its extensions write data to the <code>uploads</code> directory. "
+"This directory must be writable."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:120
+#, php-format
+msgid "To allow data saving, make <code>%s</code> writable."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:126
+msgid "WP Content URL"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:129
+msgid "The location of Wordpress's content URL."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:137
+msgid "WP Version"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:140
+msgid "The version of WordPress installed on your site."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:148
+msgid "WP Multisite"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:151
+msgid "Whether or not you have WordPress Multisite enabled."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:162
+msgid "Permalink Structure"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:165
+msgid "The current permalink structure as defined in Wordpress Settings->Permalinks."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:174
+msgid "Front Page Display"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:176
+msgid "The current Reading mode of Wordpress."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:185
+msgid "Front Page"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:188
+msgid "The currently selected page which acts as the site's Front Page."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:196
+msgid "Posts Page"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:199
+msgid "The currently selected page in where blog posts are displayed."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:210
+msgid "WP Memory Limit"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:213
+msgid "The maximum amount of memory (RAM) that your site can use at one time."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:220
+#, php-format
+msgid ""
+"%s - We recommend setting memory to at least 40MB. See: <a href=\"%s\" "
+"target=\"_blank\">Increasing memory allocated to PHP</a>"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:229
+msgid "Database Table Prefix"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:232
+msgid "The prefix structure of the current Wordpress database."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:240
+msgid "WP Debug Mode"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:243
+msgid "Displays whether or not WordPress is in Debug Mode."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:255
+msgid "Language"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:258
+msgid "The current language used by WordPress. Default = English"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:270
+msgid "Browser"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:277
+msgid "Browser Info"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:280
+msgid "Information about web browser current in use."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:297
+msgid "Server Environment"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:304
+msgid "Server Info"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:307
+msgid "Information about the web server that is currently hosting your site."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:315
+msgid "Localhost Environment"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:318
+msgid "Is the server running in a localhost environment."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:332
+msgid "PHP Version"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:335
+msgid "The version of PHP installed on your hosting server."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:343
+msgid "ABSPATH"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:346
+msgid "The ABSPATH variable on the server."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:355
+msgid "PHP Memory Limit"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:356 ..
+#: /admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:361
+msgid "The largest filesize that can be contained in one post."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:360
+msgid "PHP Post Max Size"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:365
+msgid "PHP Time Limit"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:366
+msgid ""
+"The amount of time (in seconds) that your site will spend on a single "
+"operation before timing out (to avoid server lockups)"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:370
+msgid "PHP Max Input Vars"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:371
+msgid ""
+"The maximum number of variables your server can use for a single function to "
+"avoid overloads."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:375
+msgid "PHP Display Errors"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:376
+msgid "Determines if PHP will display errors within the browser."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:387
+msgid "SUHOSIN Installed"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:388
+msgid ""
+"Suhosin is an advanced protection system for PHP installations. It was "
+"designed to protect your servers on the one hand against a number of well "
+"known problems in PHP applications and on the other hand against potential "
+"unknown vulnerabilities within these applications or the PHP core itself.  "
+"If enabled on your server, Suhosin may need to be configured to increase its "
+"data submission limits."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:399
+msgid "MySQL Version"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:400
+msgid "The version of MySQL installed on your hosting server."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:404
+msgid "Max Upload Size"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:405
+msgid "The largest filesize that can be uploaded to your WordPress installation."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:410
+msgid "Default Timezone is UTC"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:412
+msgid "The default timezone for your server."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:416
+#, php-format
+msgid "Default timezone is %s - it should be UTC"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:428
+msgid "Used when communicating with remote services with PHP."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:434
+msgid ""
+"Your server does not have fsockopen or cURL enabled - cURL is used to "
+"communicate with other servers. Please contact your hosting provider."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:473
+msgid "Remote Post"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:474
+msgid "Used to send data to remote servers."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:479
+msgid ""
+"wp_remote_post() failed. Many advanced features may not function. Contact "
+"your hosting provider."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:482 ..
+#: /admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:497
+#, php-format
+msgid "Error: %s"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:489
+msgid "Remote Get"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:490
+msgid "Used to grab information from remote servers for updates updates."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:495
+msgid ""
+"wp_remote_get() failed. This is needed to get information from remote "
+"servers. Contact your hosting provider."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:531
+msgid "Active Plugins"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:546
+msgid "Visit plugin homepage"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:553
+#, php-format
+msgctxt "by author"
+msgid "by %s"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:572
+msgid "Redux Instance: "
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:579
+msgid "The opt_name argument for this instance of Redux."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:587
+msgid "The global_variable argument for this instance of Redux."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:595
+msgid "Indicates if developer mode is enabled for this instance of Redux."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:600
+msgid "Indicates if ajax based saving is enabled for this instance of Redux."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:605
+msgid ""
+"The page slug denotes the string used for the options panel page for this "
+"instance of Redux."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:610
+msgid ""
+"The page permissions variable sets the permission level required to access "
+"the options panel for this instance of Redux."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:615
+msgid ""
+"This variable set whether or not the menu is displayed as an admin menu item "
+"for this instance of Redux."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:620
+msgid ""
+"The page parent variable sets where the options menu will be placed on the "
+"WordPress admin sidebar for this instance of Redux."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:626
+msgid "Indicates if the compiler flag is enabled for this instance of Redux."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:631
+msgid ""
+"Indicates if output flag for globally shutting off all CSS output is enabled "
+"for this instance of Redux."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:636
+msgid ""
+"The output_tag variable sets whether or not dynamic CSS will be generated "
+"for the customizer and Google fonts for this instance of Redux."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:645
+msgid ""
+"The specified template path containing custom template files for this "
+"instance of Redux."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:650
+msgid "List of template files overriding the default Redux template files."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:676
+msgid "Indicates the installed Redux extensions and their version numbers."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:705
+msgid "Theme"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:711
+msgid "The name of the current active theme."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:716
+msgid "The installed version of the current active theme."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:722
+msgid "is available"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:728
+msgid "Author URL"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:729
+msgid "The theme developers URL."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:733
+msgid "Child Theme"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:734
+msgid "Displays whether or not the current theme is a child theme."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:737
+#, php-format
+msgid ""
+"If you're modifying Redux Framework or a parent theme you didn't build "
+"personally, we recommend using a child theme. See: <a href=\"%s\" "
+"target=\"_blank\">How to create a child theme</a>"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:745
+msgid "Parent Theme Name"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:747
+msgid "The name of the parent theme."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:752
+msgid "Parent Theme Version"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:754
+msgid "The installed version of the parent theme."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:759
+msgid "Parent Theme Author URL"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:761
+msgid "The parent theme developers URL."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/support.php:2
+msgid "Redux Framework - Support"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/support.php:4
+msgid ""
+"We are an open source project used by developers to make powerful control "
+"panels."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/support.php:19 ..
+#: /admin/ReduxFramework/ReduxCore/inc/welcome/views/support.php:40
+msgid "Generate a Support URL"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/support.php:20
+msgid "Select Support Type"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/support.php:21 ..
+#: /admin/ReduxFramework/ReduxCore/inc/welcome/views/support.php:87
+msgid "How to Get Support"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/support.php:27
+msgid "Submit a Support Request"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/support.php:31
+msgid "To get started, we will need to generate a support hash."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/support.php:35
+#, php-format
+msgid ""
+"This will provide to your developer all the information they may need to "
+"remedy your issue. This action WILL send information securely to a remote "
+"server. To see the type of information sent, please look at the  <a "
+"href=\"%s\">Status tab</a>."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/support.php:52
+msgid "Select Your Support Type"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/support.php:56
+msgid "What type of user are you?"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/support.php:63 ..
+#: /includes/widgets/ct-widget-flickr.php:65
+msgid "User"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/support.php:65
+msgid "I am a user, using a pre-built product."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/support.php:70
+msgid "Developer"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/support.php:72
+msgid "I am a developer, building a product using Redux."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/support.php:92
+msgid ""
+"Please proceed to the Redux Framework issue tracker and supply us with your "
+"support URL below. Please also provide any information that will help us to "
+"reproduce your issue."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/support.php:101
+msgid ""
+"Listed below are the Wordpress plugins and/or theme installed on your site "
+"that utilize Redux Framework. We do not directly support products created "
+"with our framework.  It is the responsibility of the plugin or theme "
+"developer to support their work. You will need to contact the author(s) of "
+"the products listed below with your support questions."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/support.php:105
+msgid ""
+"Please be sure to include for your developer - via cut and paste - the "
+"Support URL in the box below."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/welcome/views/support.php:134
+#, php-format
+msgid ""
+"Should the developer not be responsive, read the <a href=\"%s\" "
+"target=\"_blank\">following article</a> before asking for support from us "
+"directly."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/templates/panel/footer.tpl.php:57 ..
+#: /admin/ReduxFramework/ReduxCore/templates/panel/header_stickybar.tpl.php:21
+msgid "Save Changes"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/templates/panel/footer.tpl.php:61 ..
+#: /admin/ReduxFramework/ReduxCore/templates/panel/header_stickybar.tpl.php:25
+msgid "Reset Section"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/templates/panel/footer.tpl.php:62 ..
+#: /admin/ReduxFramework/ReduxCore/templates/panel/header_stickybar.tpl.php:26
+msgid "Reset All"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/templates/panel/footer.tpl.php:67 ..
+#: /admin/ReduxFramework/ReduxCore/templates/panel/header_stickybar.tpl.php:29
+msgid "Working..."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/templates/panel/header.tpl.php:11 ..
+#: /admin/ReduxFramework/ReduxCore/templates/panel/header.tpl.php:49
+msgid "Developer Mode Enabled"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/templates/panel/header.tpl.php:20
+msgid "WP_DEBUG is enabled"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/templates/panel/header.tpl.php:26
+msgid "you are working in a localhost environment"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/templates/panel/header.tpl.php:31
+msgid "and"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/templates/panel/header.tpl.php:34
+msgid "This has been automatically enabled because"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/templates/panel/header.tpl.php:36
+msgid ""
+"If you are not a developer, your theme/plugin author shipped with developer "
+"mode enabled. Contact them directly to fix it."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/templates/panel/header.tpl.php:58
+msgid "FORCED DEV MODE OFF ENABLED"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/templates/panel/header_stickybar.tpl.php:15
+msgid "Expand"
+msgstr ""
+
+#: ../admin/ReduxFramework/theme-options/re7-config.php:79 ..
+#: /admin/ReduxFramework/theme-options/re7-config.php:80
+msgid "Real Estate 7 Options"
+msgstr ""
+
+#: ../admin/ReduxFramework/theme-options/re7-config.php:539
+msgid "Theme Information 1"
+msgstr ""
+
+#: ../admin/ReduxFramework/theme-options/re7-config.php:540 ..
+#: /admin/ReduxFramework/theme-options/re7-config.php:545
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr ""
+
+#: ../admin/ReduxFramework/theme-options/re7-config.php:544
+msgid "Theme Information 2"
+msgstr ""
+
+#: ../admin/ReduxFramework/theme-options/re7-config.php:551
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr ""
+
+#: ../admin/ReduxFramework/theme-options/re7-config.php:557
+msgid "General Settings"
+msgstr ""
+
+#: ../admin/ReduxFramework/theme-options/re7-config.php:615 ..
+#: /admin/ReduxFramework/theme-options/re7-config.php:1516
+msgid "Header"
+msgstr ""
+
+#: ../admin/ReduxFramework/theme-options/re7-config.php:659
+msgid "Custom Logo"
+msgstr ""
+
+#: ../admin/ReduxFramework/theme-options/re7-config.php:694
+msgid "Top Bar"
+msgstr ""
+
+#: ../admin/ReduxFramework/theme-options/re7-config.php:715
+msgid "Contact Phone"
+msgstr ""
+
+#: ../admin/ReduxFramework/theme-options/re7-config.php:731
+msgid "Currency Switcher"
+msgstr ""
+
+#: ../admin/ReduxFramework/theme-options/re7-config.php:751
+msgid "Social Links"
+msgstr ""
+
+#: ../admin/ReduxFramework/theme-options/re7-config.php:842
+msgid "Homepage"
+msgstr ""
+
+#: ../admin/ReduxFramework/theme-options/re7-config.php:852
+msgid "Layout Manager"
+msgstr ""
+
+#: ../admin/ReduxFramework/theme-options/re7-config.php:975
+msgid "Revolution Slider"
+msgstr ""
+
+#: ../admin/ReduxFramework/theme-options/re7-config.php:992 ..
+#: /admin/ReduxFramework/theme-options/re7-config.php:1223
+msgid "FlexSlider"
+msgstr ""
+
+#: ../admin/ReduxFramework/theme-options/re7-config.php:1018
+msgid "Call To Action"
+msgstr ""
+
+#: ../admin/ReduxFramework/theme-options/re7-config.php:1049
+msgid "Featured Listings"
+msgstr ""
+
+#: ../admin/ReduxFramework/theme-options/re7-config.php:1120
+msgid "Add/Edit Testimonials"
+msgstr ""
+
+#: ../admin/ReduxFramework/theme-options/re7-config.php:1121
+msgid "Add your testimonials to be displayed on the homepage."
+msgstr ""
+
+#: ../admin/ReduxFramework/theme-options/re7-config.php:1123
+msgid "Company or Person"
+msgstr ""
+
+#: ../admin/ReduxFramework/theme-options/re7-config.php:1124
+msgid "Testimonial Here"
+msgstr ""
+
+#: ../admin/ReduxFramework/theme-options/re7-config.php:1125 ..
+#: /admin/ReduxFramework/theme-options/re7-config.php:1155
+msgid "Link"
+msgstr ""
+
+#: ../admin/ReduxFramework/theme-options/re7-config.php:1133
+msgid "Partners"
+msgstr ""
+
+#: ../admin/ReduxFramework/theme-options/re7-config.php:1150
+msgid "Add/Edit Partner Logos"
+msgstr ""
+
+#: ../admin/ReduxFramework/theme-options/re7-config.php:1151
+msgid "Add your partner logos to be displayed on the homepage."
+msgstr ""
+
+#: ../admin/ReduxFramework/theme-options/re7-config.php:1153
+msgid "Partner Title"
+msgstr ""
+
+#: ../admin/ReduxFramework/theme-options/re7-config.php:1154
+msgid "Description Here (not used)"
+msgstr ""
+
+#: ../admin/ReduxFramework/theme-options/re7-config.php:1163
+msgid "Page Builder"
+msgstr ""
+
+#: ../admin/ReduxFramework/theme-options/re7-config.php:1207
+msgid "Four Column Widget Area"
+msgstr ""
+
+#: ../admin/ReduxFramework/theme-options/re7-config.php:1290
+msgid "Create a Skin"
+msgstr ""
+
+#: ../admin/ReduxFramework/theme-options/re7-config.php:1313 ..
+#: /admin/ReduxFramework/theme-options/re7-config.php:1527 ..
+#: /admin/ReduxFramework/theme-options/re7-config.php:1605 ..
+#: /admin/ReduxFramework/theme-options/re7-config.php:1694 ..
+#: /admin/ReduxFramework/theme-options/re7-config.php:1734
+msgid "NOTE!"
+msgstr ""
+
+#: ../admin/ReduxFramework/theme-options/re7-config.php:1314
+msgid "If this isn't set to Yes NONE of the Styles will be Applied."
+msgstr ""
+
+#: ../admin/ReduxFramework/theme-options/re7-config.php:1321
+msgid "Typography"
+msgstr ""
+
+#: ../admin/ReduxFramework/theme-options/re7-config.php:1341
+msgid "Body"
+msgstr ""
+
+#: ../admin/ReduxFramework/theme-options/re7-config.php:1360
+msgid "Headings"
+msgstr ""
+
+#: ../admin/ReduxFramework/theme-options/re7-config.php:1379
+msgid "H1"
+msgstr ""
+
+#: ../admin/ReduxFramework/theme-options/re7-config.php:1399
+msgid "H2"
+msgstr ""
+
+#: ../admin/ReduxFramework/theme-options/re7-config.php:1419
+msgid "H3"
+msgstr ""
+
+#: ../admin/ReduxFramework/theme-options/re7-config.php:1439
+msgid "H4"
+msgstr ""
+
+#: ../admin/ReduxFramework/theme-options/re7-config.php:1459
+msgid "H5"
+msgstr ""
+
+#: ../admin/ReduxFramework/theme-options/re7-config.php:1479
+msgid "H6"
+msgstr ""
+
+#: ../admin/ReduxFramework/theme-options/re7-config.php:1500
+msgid "Body Background"
+msgstr ""
+
+#: ../admin/ReduxFramework/theme-options/re7-config.php:1528 ..
+#: /admin/ReduxFramework/theme-options/re7-config.php:1606 ..
+#: /admin/ReduxFramework/theme-options/re7-config.php:1695 ..
+#: /admin/ReduxFramework/theme-options/re7-config.php:1735
+msgid ""
+"You must set Create a Skin > Use Custom Styles > Yes, if this isn't set NONE "
+"of the Styles will be Applied."
+msgstr ""
+
+#: ../admin/ReduxFramework/theme-options/re7-config.php:1594
+msgid "Secondary Colors"
+msgstr ""
+
+#: ../admin/ReduxFramework/theme-options/re7-config.php:1683
+msgid "Links"
+msgstr ""
+
+#: ../admin/ReduxFramework/theme-options/re7-config.php:1723 ..
+#: /admin/ReduxFramework/theme-options/re7-config.php:2790
+msgid "Footer"
+msgstr ""
+
+#: ../admin/ReduxFramework/theme-options/re7-config.php:1855
+msgid "Google Maps"
+msgstr ""
+
+#: ../admin/ReduxFramework/theme-options/re7-config.php:2182
+msgid "Walk Score"
+msgstr ""
+
+#: ../admin/ReduxFramework/theme-options/re7-config.php:2185
+msgid ""
+"Walk Score is the only international measure of walkability and the leading "
+"provider of neighborhood maps to the real estate industry. More than 30,000 "
+"websites use the Walk Score Neighborhood Map and we serve over 20 million "
+"scores each day. <a href=\"https://www.walkscore.com/professional/api-sign-up."
+"php\" target=\"_blank\">Get your API Key</a>!."
+msgstr ""
+
+#: ../admin/ReduxFramework/theme-options/re7-config.php:2223
+msgid "Yelp"
+msgstr ""
+
+#: ../admin/ReduxFramework/theme-options/re7-config.php:2226
+msgid ""
+"Set this up if you'd like to display \"What's Nearby?\" information on your "
+"listings such as restaurants, grocery stores, schools, coffee shops, "
+"etc&hellip;. <a href=\"http://www.yelp."
+"com/developers/getting_started/api_access\" target=\"_blank\">Get your API "
+"Key</a>!."
+msgstr ""
+
+#: ../admin/ReduxFramework/theme-options/re7-config.php:2333
+msgid "Front End Submission"
+msgstr ""
+
+#: ../admin/ReduxFramework/theme-options/re7-config.php:2480
+msgid "WP Favorite Posts"
+msgstr ""
+
+#: ../admin/ReduxFramework/theme-options/re7-config.php:2514
+msgid "Single Post"
+msgstr ""
+
+#: ../admin/ReduxFramework/theme-options/re7-config.php:2695
+msgid "Map Addresses"
+msgstr ""
+
+#: ../admin/ReduxFramework/theme-options/re7-config.php:2696
+msgid ""
+"Enter the address of your locations to be used in the Google Map, needs to "
+"be entered in this format for each entry: 849 West Harbor Dr. San Diego, CA "
+"92101"
+msgstr ""
+
+#: ../admin/ReduxFramework/theme-options/re7-config.php:2760
+msgid "Custom CSS"
+msgstr ""
+
+#: ../admin/ReduxFramework/theme-options/re7-config.php:2775
+msgid "Custom JS"
+msgstr ""
+
+#: ../admin/ReduxFramework/theme-options/re7-config.php:2823
+msgid "Import/Export"
+msgstr ""
+
+#: ../admin/ReduxFramework/theme-options/re7-config.php:2843
+msgid "Documentation"
+msgstr ""
+
+#: ../admin/ReduxFramework/theme-options/re7-config.php:2877
+msgid ""
+"Works best to import on a new install of WordPress. Recommend using the <a "
+"href=\"https://wordpress.org/plugins/wordpress-reset/\" "
+"target=\"_blank\">WordPress Reset plugin</a> before switching between demos. "
+"<strong>If the progress bar hangs, don't fear the worst its a simple fix "
+"please see this <a href=\"https://contempo.ticksy.com/article/5952/\">KB "
+"article</a></strong>."
+msgstr ""
+
+#: ../admin/ReduxFramework/theme-options/re7-config.php:2989
+msgid "Section via hook"
+msgstr ""
+
+#: ../admin/ReduxFramework/theme-options/re7-config.php:2990
+msgid ""
+"<p class=\"description\">This is a section created by adding a filter to the "
+"sections array. Can be used by child themes to add/remove sections from the "
+"options.</p>"
+msgstr ""
+
+#: ../includes/advanced-search.php:182 ../includes/widgets/ct-widget-
+#: listingssearch.php:191
+msgid "From"
+msgstr ""
+
+#: ../includes/advanced-search.php:191 ../includes/widgets/ct-widget-
+#: listingssearch.php:200
+msgid "To"
+msgstr ""
+
+#: ../includes/advanced-search.php:236 ../includes/advanced-search.php:237
+msgid "Keyword"
+msgstr ""
+
+#: ../includes/advanced-search.php:260 ../includes/widgets/ct-widget-
+#: listingssearch.php:262
+msgid "More Search Options"
+msgstr ""
+
+#: ../includes/featured-listings.php:30 ../includes/featured-listings.php:32
+msgid "View All"
+msgstr ""
+
+#: ../includes/featured-listings.php:60 ../includes/featured-listings.php:69 ..
+#: /includes/single-listing-home.php:29
+msgid "featured"
+msgstr ""
+
+#: ../includes/single-listing-home.php:450
+msgid "Share This Listing"
+msgstr ""
+
+#: ../includes/widgets/ct-widget-adspace.php:13
+msgid "CT Adspace Widget"
+msgstr ""
+
+#: ../includes/widgets/ct-widget-adspace.php:61 ../includes/widgets/ct-widget-
+#: listingssocial.php:49
+msgid "Title (optional):"
+msgstr ""
+
+#: ../includes/widgets/ct-widget-adspace.php:65
+msgid "Ad Code:"
+msgstr ""
+
+#: ../includes/widgets/ct-widget-adspace.php:70
+msgid "Image Url:"
+msgstr ""
+
+#: ../includes/widgets/ct-widget-adspace.php:74
+msgid "Link URL:"
+msgstr ""
+
+#: ../includes/widgets/ct-widget-adspace.php:78
+msgid "Alt text:"
+msgstr ""
+
+#: ../includes/widgets/ct-widget-agentinfo.php:13
+msgid "CT Agent Info"
+msgstr ""
+
+#: ../includes/widgets/ct-widget-agentinfo.php:68
+msgid "Mobile"
+msgstr ""
+
+#: ../includes/widgets/ct-widget-agentinfo.php:71
+msgid "Office"
+msgstr ""
+
+#: ../includes/widgets/ct-widget-agentinfo.php:74
+msgid "Fax"
+msgstr ""
+
+#: ../includes/widgets/ct-widget-agentsotherlistings.php:13
+msgid "CT Agents Other Listings"
+msgstr ""
+
+#: ../includes/widgets/ct-widget-agentsotherlistings.php:275 ..
+#: /includes/widgets/ct-widget-flickr.php:55 ../includes/widgets/ct-widget-
+#: latestposts.php:74 ../includes/widgets/ct-widget-listings.php:125 ..
+#: /includes/widgets/ct-widget-testimonials.php:66
+msgid "Number:"
+msgstr ""
+
+#: ../includes/widgets/ct-widget-agentsotherlistings.php:283 ..
+#: /includes/widgets/ct-widget-listings.php:133
+msgid "Taxonomy:"
+msgstr ""
+
+#: ../includes/widgets/ct-widget-agentsotherlistings.php:292 ..
+#: /includes/widgets/ct-widget-listings.php:142
+msgid "Tag:"
+msgstr ""
+
+#: ../includes/widgets/ct-widget-blogauthor.php:13
+msgid "CT Blog Author Info"
+msgstr ""
+
+#: ../includes/widgets/ct-widget-blogauthor.php:64
+msgid "Bio:"
+msgstr ""
+
+#: ../includes/widgets/ct-widget-blogauthor.php:68
+msgid "<a href=\"http://www.gravatar.com/\">Gravatar</a> E-mail:"
+msgstr ""
+
+#: ../includes/widgets/ct-widget-blogauthor.php:72
+msgid "Gravatar Size:"
+msgstr ""
+
+#: ../includes/widgets/ct-widget-blogauthor.php:76
+msgid "Gravatar Alignment:"
+msgstr ""
+
+#: ../includes/widgets/ct-widget-blogauthor.php:83
+msgid "Read More Text (optional):"
+msgstr ""
+
+#: ../includes/widgets/ct-widget-blogauthor.php:87
+msgid "Read More URL (optional):"
+msgstr ""
+
+#: ../includes/widgets/ct-widget-blogauthor.php:91
+msgid "Visible Pages:"
+msgstr ""
+
+#: ../includes/widgets/ct-widget-blogauthor.php:94
+msgid "Home only"
+msgstr ""
+
+#: ../includes/widgets/ct-widget-blogauthor.php:95
+msgid "Single only"
+msgstr ""
+
+#: ../includes/widgets/ct-widget-brokerinfo.php:13
+msgid "CT Brokers Info"
+msgstr ""
+
+#: ../includes/widgets/ct-widget-brokerinfo.php:54
+msgid "Email Office"
+msgstr ""
+
+#: ../includes/widgets/ct-widget-brokerinfo.php:55
+msgid "Visit Brokers Website"
+msgstr ""
+
+#: ../includes/widgets/ct-widget-brokerinfo.php:82
+msgid "Logo URL:"
+msgstr ""
+
+#: ../includes/widgets/ct-widget-brokerinfo.php:86
+msgid "Company:"
+msgstr ""
+
+#: ../includes/widgets/ct-widget-brokerinfo.php:90
+msgid "Office Phone:"
+msgstr ""
+
+#: ../includes/widgets/ct-widget-brokerinfo.php:94
+msgid "Office Email:"
+msgstr ""
+
+#: ../includes/widgets/ct-widget-brokerinfo.php:98
+msgid "Website:"
+msgstr ""
+
+#: ../includes/widgets/ct-widget-contactinfo.php:13
+msgid "CT Contact Info"
+msgstr ""
+
+#: ../includes/widgets/ct-widget-contactinfo.php:112
+msgid "Show Logo:"
+msgstr ""
+
+#: ../includes/widgets/ct-widget-contactinfo.php:114
+msgid "Yes"
+msgstr ""
+
+#: ../includes/widgets/ct-widget-contactinfo.php:115
+msgid "No"
+msgstr ""
+
+#: ../includes/widgets/ct-widget-contactinfo.php:123
+msgid "Blurb:"
+msgstr ""
+
+#: ../includes/widgets/ct-widget-contactinfo.php:127
+msgid "Company Name:"
+msgstr ""
+
+#: ../includes/widgets/ct-widget-contactinfo.php:131
+msgid "Street Address:"
+msgstr ""
+
+#: ../includes/widgets/ct-widget-contactinfo.php:135
+msgid "City:"
+msgstr ""
+
+#: ../includes/widgets/ct-widget-contactinfo.php:139
+msgid "State:"
+msgstr ""
+
+#: ../includes/widgets/ct-widget-contactinfo.php:143
+msgid "Postal:"
+msgstr ""
+
+#: ../includes/widgets/ct-widget-contactinfo.php:147
+msgid "Country:"
+msgstr ""
+
+#: ../includes/widgets/ct-widget-contactinfo.php:151
+msgid "Phone:"
+msgstr ""
+
+#: ../includes/widgets/ct-widget-flickr.php:13
+msgid "CT Flickr"
+msgstr ""
+
+#: ../includes/widgets/ct-widget-flickr.php:26
+msgid "Photos on flickr"
+msgstr ""
+
+#: ../includes/widgets/ct-widget-flickr.php:51
+msgid "Flickr ID (<a href=\"http://www.idgettr.com\">idGettr</a>):"
+msgstr ""
+
+#: ../includes/widgets/ct-widget-flickr.php:63
+msgid "Type:"
+msgstr ""
+
+#: ../includes/widgets/ct-widget-flickr.php:66
+msgid "Group"
+msgstr ""
+
+#: ../includes/widgets/ct-widget-flickr.php:70
+msgid "Sorting:"
+msgstr ""
+
+#: ../includes/widgets/ct-widget-flickr.php:72 ../includes/widgets/ct-widget-tabs.
+#: php:110 ../includes/widgets/ct-widget-tabs.php:117
+msgid "Latest"
+msgstr ""
+
+#: ../includes/widgets/ct-widget-flickr.php:73
+msgid "Random"
+msgstr ""
+
+#: ../includes/widgets/ct-widget-flickr.php:77
+msgid "Size:"
+msgstr ""
+
+#: ../includes/widgets/ct-widget-flickr.php:79
+msgid "Square"
+msgstr ""
+
+#: ../includes/widgets/ct-widget-flickr.php:80
+msgid "Medium"
+msgstr ""
+
+#: ../includes/widgets/ct-widget-flickr.php:81
+msgid "Thumbnail"
+msgstr ""
+
+#: ../includes/widgets/ct-widget-latestposts.php:13
+msgid "CT Latest Posts"
+msgstr ""
+
+#: ../includes/widgets/ct-widget-listings.php:13
+msgid "CT Listings"
+msgstr ""
+
+#: ../includes/widgets/ct-widget-listings.php:146
+msgid "View All Link Text"
+msgstr ""
+
+#: ../includes/widgets/ct-widget-listings.php:150
+msgid "View All Link URL"
+msgstr ""
+
+#: ../includes/widgets/ct-widget-listingscontact.php:13
+msgid "CT Listing Agent Contact"
+msgstr ""
+
+#: ../includes/widgets/ct-widget-listingscontact.php:72
+msgid "Subject:"
+msgstr ""
+
+#: ../includes/widgets/ct-widget-listingssearch.php:13
+msgid "CT Listings Search"
+msgstr ""
+
+#: ../includes/widgets/ct-widget-listingssocial.php:13
+msgid "CT Listings Social"
+msgstr ""
+
+#: ../includes/widgets/ct-widget-search.php:13
+msgid "CT Search"
+msgstr ""
+
+#: ../includes/widgets/ct-widget-tabs.php:13
+msgid "CT Tabs"
+msgstr ""
+
+#: ../includes/widgets/ct-widget-tabs.php:103
+msgid "Number of posts:"
+msgstr ""
+
+#: ../includes/widgets/ct-widget-tabs.php:108
+msgid "First Visible Tab:"
+msgstr ""
+
+#: ../includes/widgets/ct-widget-tabs.php:111 ../includes/widgets/ct-widget-tabs.
+#: php:120
+msgid "Comments"
+msgstr ""
+
+#: ../includes/widgets/ct-widget-tabs.php:112 ../includes/widgets/ct-widget-tabs.
+#: php:123
+msgid "Tags"
+msgstr ""
+
+#: ../includes/widgets/ct-widget-tabs.php:213
+msgid "on"
+msgstr ""
+
+#: ../includes/widgets/ct-widget-testimonials.php:13
+msgid "CT Testimonials"
+msgstr ""
+
+#: ../layouts/blog-large.php:96
+msgid "Read More"
+msgstr ""
+
+#: ../layouts/grid.php:19 ../layouts/list.php:16
+msgid "This agent currently has no active listings."
+msgstr ""
+
+#: ../layouts/grid.php:21 ../layouts/list.php:18
+msgid "This brokerage currently has no active listings."
+msgstr ""
+
+#: ../layouts/grid.php:23 ../layouts/list.php:20
+msgid "No properties were found which match your search criteria"
+msgstr ""
+
+#. Name of the theme
+msgid "WP Pro Real Estate 7"
+msgstr ""
+
+#. Theme URI of the theme
+msgid "http://themeforest.net/user/contempoinc?ref=contempoinc"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"A responsive real estate theme, designed by <a href=\"http://www."
+"contempographicdesign.com\">Contempo</a>."
+msgstr ""
+
+#. Author of the theme
+msgid "Chris Robinson"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://www.contempographicdesign.com"
+msgstr ""

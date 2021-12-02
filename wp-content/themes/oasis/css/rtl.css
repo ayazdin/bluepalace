@@ -1,0 +1,68 @@
+/*
+* RTL
+* 
+* @package WP Pro Real Estate 7
+* @subpackage CSS
+*/
+
+/** Body
+==============================================================================*/
+
+body { direction: rtl;}
+
+/** Floats
+==============================================================================*/
+
+.right { float: left;}
+.left { float: right;}
+
+/** Header
+==============================================================================*/
+
+#topbar-wrap .contact-phone i { padding: 0 0 0 8px;}
+#masthead nav.left { float: left;}
+
+#topbar-wrap ul.user-drop { left: 0; right: auto;}
+
+	#topbar-wrap li.login-register i { float: left;}
+	
+
+/** Main Content
+==============================================================================*/
+
+.archive .col.span_9,
+.content.col.span_9,
+article.col.span_9 { float: right; margin-left: 2%;}
+
+/** Search Listings
+==============================================================================*/
+
+span.searching { border-top-right-radius: 3px; border-top-left-radius: 0;}
+span.search-params { border-top-right-radius: 0; border-top-left-radius: 3px;}
+span.map-toggle { left: 0; right: auto; border-top-right-radius: 0; border-top-left-radius: 3px;}
+	span.map-toggle a { border-top-right-radius: 0; border-top-left-radius: 3px;}
+
+#submit.btn.left { float: left;}
+
+/** Single Listing
+==============================================================================*/
+
+.propfeatures.left.marR20,
+.propfeatures.left.marR30 { margin-right: 0 !important; margin-left: 20px !important;}
+	.single-listings .fa-check-circle { margin: 0 0 0 10px;}
+
+/** Form Fields
+==============================================================================*/
+
+span.customSelect { background-position: left center;}
+
+/** Sidebar
+==============================================================================*/
+
+#sidebar.col.span_3 { margin-left: 0;}
+
+/** Widgets
+==============================================================================*/
+
+.contact-info i { margin-right: 0; margin-left: 10px;}
+	.contact-info i.fa { float: right;}

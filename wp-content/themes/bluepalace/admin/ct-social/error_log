@@ -1,0 +1,1 @@
+[26-Jan-2016 20:08:18 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/contempothemes/public_html/wp-real-estate-7/multi-demo/wp-content/themes/realestate-7/admin/ct-social/ct-social.php on line 18

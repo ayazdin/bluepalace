@@ -1,0 +1,18 @@
+<wpml-config>
+  <custom-types>
+    <custom-type translate="1">listings</custom-type>
+    <custom-type translate="1">testimonial</custom-type>
+  </custom-types>
+  <taxonomies>
+    <taxonomy translate="1">property_type</taxonomy>
+    <taxonomy translate="1">beds</taxonomy>
+    <taxonomy translate="1">baths</taxonomy>
+    <taxonomy translate="1">ct_status</taxonomy>
+    <taxonomy translate="1">city</taxonomy>
+    <taxonomy translate="1">state</taxonomy>
+    <taxonomy translate="1">zipcode</taxonomy>
+    <taxonomy translate="1">country</taxonomy>
+    <taxonomy translate="1">community</taxonomy>
+    <taxonomy translate="1">additional_features</taxonomy>
+  </taxonomies>
+</wpml-config>

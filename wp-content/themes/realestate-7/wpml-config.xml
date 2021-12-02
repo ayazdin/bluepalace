@@ -1,0 +1,17 @@
+<wpml-config>
+    <admin-texts>
+        <key name="ct_home_adv_search_title" />
+        <key name="ct_flex_slider">
+            <key name="title" />
+            <key name="description" />
+        </key>
+        <key name="ct_home_testimonials">
+            <key name="title" />
+            <key name="description" />
+        </key>
+        <key name="ct_cta" />
+        <key name="ct_contact_subject" />
+        <key name="ct_contact_success" />
+        <key name="ct_footer_text" />
+    </admin-texts>
+</wpml-config>

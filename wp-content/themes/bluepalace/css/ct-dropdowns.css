@@ -1,0 +1,217 @@
+/*
+* CT Dropdowns
+*
+* @package WP Pro Real Estate 7
+* @subpackage CSS
+*/
+
+.ct-menu {
+    font-size: 14px;
+    z-index: 999;
+    text-transform: capitalize;
+}
+
+.ct-menu > li {
+    display: inline-block;
+}
+
+.height_70 {
+    height: 70px;
+}
+
+.ct-menu > li > a {
+    display: inline-block;
+    text-align: center;
+    height: 70px; /*line-height: 3.4em;*/
+    margin: 0 0 20px 0;
+    padding: 15px 15px 0;
+    color: #333;
+    z-index: 0;
+    border-top: 5px solid #29333d;
+    border-top-color: transparent;
+}
+
+#nav-full-width .ct-menu > li > a {
+    margin: 0;
+    padding-top: 16px;
+    padding-bottom: 20px;
+    line-height: 1em;
+    color: #fff;
+}
+
+.ct-menu > li.btn-outline > a {
+    line-height: 2.2em;
+    padding: 4px 14px;
+    border-radius: 3px;
+    border: 1px solid #27ae60;
+    color: #27ae60;
+}
+
+/*.ct-menu i { position: absolute; right: 3px; top: 45%; color: #b9bfc6; z-index: 10;}*/
+.ct-menu li.current-menu-item a,
+.ct-menu li.current_page_parent a {
+    border-top-color: #27ae60;
+}
+
+.ct-menu li#menu-item-665 a,
+.ct-menu li.current_page_parent#menu-item-665 a {
+    background: none;
+    border-radius: 0;
+}
+
+.ctmenu.current_page_parent li.current_menu_item {
+    border-top-color: #27ae60;
+}
+
+/* Sub Menu */
+.ct-menu .sub-menu {
+    position: absolute;
+    display: none;
+    padding: 0;
+    font-size: 12px;
+    text-transform: uppercase;
+    text-align: left;
+    z-index: 999999;
+    border-bottom-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    /*bottom: -88px;*/
+    bottom: -136px;
+
+}
+
+.ct-menu li:hover .sub-menu {
+    display: block;
+}
+
+/* Mega Menu */
+.ct-menu .multicolumn > .sub-menu {
+    width: 100%;
+    left: 0;
+    padding: 0 1% 2% 1%;
+    background: #29333d;
+}
+
+#nav-full-width .ct-menu .multicolumn > .sub-menu {
+    max-width: 1100px;
+    margin: 0 auto;
+}
+
+#nav-full-width nav {
+    position: relative;
+}
+
+.ct-menu .multicolumn > .sub-menu > li {
+}
+
+.ct-menu .multicolumn .col-title {
+    color: #fff;
+    padding: 15px 2% 0 2%;
+    border-bottom: none;
+    font-size: 14px;
+    font-weight: 800;
+}
+
+.ct-menu .multicolumn .sub-menu .sub-menu {
+    position: relative;
+    margin-top: 15px;
+}
+
+.ct-menu .multicolumn-2 .sub-menu li {
+    width: 50%;
+}
+
+.ct-menu .multicolumn-3 .sub-menu li {
+    width: 33.33%;
+}
+
+.ct-menu .multicolumn-4 .sub-menu li {
+    width: 25%;
+}
+
+.ct-menu .multicolumn-5 .sub-menu li {
+    width: 20%;
+}
+
+.ct-menu .multicolumn-6 .sub-menu li {
+    width: 16.667%;
+}
+
+.ct-menu .multicolumn .sub-menu li li {
+    width: 100% !important;
+}
+
+.ct-menu .multicolumn .sub-menu li .sub-menu li a {
+    margin: 0;
+    padding-left: 2%;
+}
+
+.ct-menu .multicolumn .sub-menu li .sub-menu li:last-child a {
+    border-bottom: none;
+}
+
+.ct-menu .sub-menu > .sub-menu {
+    right: 18em !important;
+}
+
+.ct-menu .sub-menu > li {
+    display: block;
+    width: 16em;
+    line-height: normal;
+    background: #29333d;
+}
+
+/*#nav-full-width .ct-menu .sub-menu > li { background: #101317;}*/
+.ct-menu .multicolumn .sub-menu > li {
+    float: left;
+}
+
+.ct-menu .sub-menu > li i {
+    display: none;
+}
+
+.ct-menu .sub-menu > li > a {
+    padding: 15px 25px;
+    display: block;
+    color: #fff !important;
+    font-size: 0.9em !important;
+    border-bottom: 1px solid #222;
+    -webkit-transition: all 0.2s;
+    -moz-transition: all 0.2s;
+    transition: all 0.2s;
+}
+
+.ct-menu .sub-menu > li > a:hover {
+    background: rgba(59, 77, 93, 1);
+}
+
+.ct-menu .multicolumn .sub-menu > li > a:hover {
+    padding-left: 6% !important;
+}
+
+.ct-menu .sub-menu > li:last-child > a {
+    border-bottom-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    overflow: hidden;
+}
+
+.descProject {
+    left: 50px !important;
+}
+
+/* Landscape tablet */
+@media (min-width: 768px) and (max-width: 1199px) {
+    .ct-menu > li > a {
+        padding: 15px 5px 0;
+    }
+}
+
+/* Portrait tablet @media (min-width: 768px) and (max-width : 979px) */
+@media (min-width: 768px) and (max-width: 991px) {
+}
+
+/*  #Mobile (Portrait)
+================================================== */
+
+/* Note: Design for a width of 320px */
+@media only screen and (max-width: 767px) {
+}

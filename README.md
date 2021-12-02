@@ -1,2 +1,1 @@
-# bluepalace
-old wp site
+# royaloasis

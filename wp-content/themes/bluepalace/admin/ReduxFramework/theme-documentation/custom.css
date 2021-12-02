@@ -1,0 +1,37 @@
+.form-table td fieldset#ct_options-documentation label,
+.form-table td fieldset#ct_options-documentation li,
+.form-table td fieldset#ct_options-documentation p { line-height: 1.8em;}
+
+#ct_options-documentation figure { border-radius: 3px; margin-bottom: 2.5em; padding: 3px; border: 1px solid #e7e7e7;}
+	#ct_options-documentation figure img { display: block;}
+
+#ct_options-documentation figure,
+#ct_options-documentation iframe { margin: 20px 0;}
+	#ct_options-documentation figure img { margin: 0 auto;}
+#ct_options-documentation hr { display: none;}
+	#ct_options-documentation hr + h2 { font-size: 1.85em; font-weight: 800; margin: 3em 0 1.5em 0; padding: 0 0 0.5em 0; border-bottom: 3px solid #e7e7e7;}
+		#ct_options-documentation h3 { font-size: 1.5em; margin: 1.5em 0 0.65em 0; border: none;}
+		#ct_options-documentation h4 { font-size: 1.25em;}
+		#ct_options-documentation h5 { font-size: 1em; font-weight: 800;}
+		#ct_options-documentation p { margin-bottom: 1.2em;}
+		#ct_options-documentation ol.alpha {list-style:upper-alpha;}
+		#ct_options-documentation ul { margin: 0 0 1.2em 20px; list-style-position: inside;}
+		#ct_options-documentation li ul { margin: 0 1.5em;}
+			#ct_options-documentation ul li { list-style: disc;}
+				#ct_options-documentation ul li ol li { list-style: decimal;}
+			#ct_options-documentation ul.no-bullet li { list-style: none;}
+		#ct_options-documentation a[href="#toc"] { position: relative; top: -4px; font-size: 12px; padding: 4px 16px; text-align: center; background: #ececec; border-radius: 3px; text-decoration: none;}
+		#ct_options-documentation p.note { padding: 1.5em; border: 1px solid #e7e7e7; background: #efefef;}
+
+		#snipes li { line-height: 2.2em !important;}
+			.snipe { padding: 6px 10px; color: #fff; font-size: 11px; border-radius: 3px; text-transform: uppercase;}
+				.sold { background: #ff6400;}
+				.for-sale { background: #34495e;}
+				.leased { background: #90f;}
+				.reduced { background: #bc0000;}
+				.open-house { background: #7faf1b;}
+				.available { background: #3b504b;}
+				.rental,
+				.for-rent { background: #0097d6;}
+				.new-addition { background: #76bcad;}
+				.special-offer { background: #f39c12;}

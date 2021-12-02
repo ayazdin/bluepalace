@@ -1,0 +1,113 @@
+.single-listing .propinfo{padding:30px 0px}
+.propinfo li.row{
+    margin: 0;
+    margin-bottom: 5px;
+    border-bottom: 1px solid #d5d9dd;
+}
+.propinfo span{display: block;}
+.left {  float: left;  }
+.right { float: right;  }
+
+.singleListImg img{width: 100%}
+
+.form-group input[type="file"]{ line-height: 0px;}
+.homeslider .owl-item{margin-right: 29px !important;}
+.homeslider .owl-item img{width:106% !important;
+    height: 550px !important; object-fit: cover}
+.homeslider .owl-controls .owl-dots{}
+.bg-image-01{background-color: #0a1923;background-image:none; }
+.owl-controls {
+    margin-top: 0px;
+    position: absolute;
+    bottom: 160px;
+    left: 120px;
+}
+.owl-dot {margin-right: 16px}
+.slidertitle {
+    position: absolute;
+    background: #000;
+    opacity: 0.6;
+    width: 30%;
+    text-align: center;
+    height: 100%;
+}
+.slidertitle h3 {
+    font-size: 60px;
+    font-weight: 100;
+    margin-top: 38%;
+    font-family: inherit;
+}
+.slidertitle a{margin-top: 30px}
+.well-base {
+    padding-top: 20px;
+}
+.thumbnail img {
+    height: 450px;
+    object-fit: cover;
+}
+
+@media (max-width: 380px)
+{
+    .homeslider .owl-item img{width:106% !important;
+        height: 450px !important; object-fit: cover}
+    .slidertitle {
+        width: 100%;
+    }
+    .slidertitle h3 {
+        font-size: 40px;
+        margin-top: 30%;
+        font-family: inherit;
+    }
+    .owl-controls {
+        margin-top: 0px;
+        position: absolute;
+        bottom: 70px;
+        left: 129px;
+    }
+}
+
+@media (max-width: 670px)
+{
+    .homeslider .owl-item img{width:106% !important;
+        height: 370px !important; object-fit: cover}
+    .slidertitle {
+        width: 100%;
+    }
+    .slidertitle h3 {
+        font-size: 40px;
+        margin-top: 14%;
+        font-family: inherit;
+    }
+    .owl-controls {
+        margin-top: 0px;
+        position: absolute;
+        bottom: 70px;
+        left: 129px;
+    }
+}
+
+@media (min-width: 1380px){
+    .owl-carousel{width: 134%}
+    .homeslider .owl-item img{width:141% !important;
+        height: 550px !important; object-fit: cover}
+    .slidertitle {
+        position: absolute;
+        background: #000;
+        opacity: 0.8;
+        width: 30%;
+        text-align: center;
+        height: 100%;
+    }
+    .slidertitle h3 {
+        font-size: 60px;
+        font-weight: 100;
+        margin-top: 20%;
+        font-family: inherit;
+    }
+    .owl-controls {
+        margin-top: 0px;
+        position: absolute;
+        bottom: 160px;
+        left: 230px;
+    }
+}

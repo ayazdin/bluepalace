@@ -1,0 +1,17 @@
+.form-table td fieldset#ct_options-changelog  label,
+.form-table td fieldset#ct_options-changelog li,
+.form-table td fieldset#ct_options-changelog p { line-height: 1.8em;}
+
+#ct_options-changelog h3 { font-size: 1em;}
+#ct_options-changelog li ul { margin: 0 1.5em;}
+	#ct_options-changelog ul li { list-style: disc;}
+
+#ct_options-changelog .fixed,
+#ct_options-changelog .added,
+#ct_options-changelog .updated,
+#ct_options-changelog .new-feature { display: inline-block; width: 100px; text-align: center; margin: 0 4px; padding: 2px 0; font-size: 11px; border-radius: 3px; color: #fff; text-transform: uppercase;}
+	#ct_options-changelog .fixed { background: #f39c12;}
+	#ct_options-changelog .added { background: #7faf1b;}
+	#ct_options-changelog .updated { background: #0097d6;}
+	#ct_options-changelog .new-feature { background: #76bcad;}
+#ct_options-changelog .redux-notice-field { margin: 0 0 15px 0;}

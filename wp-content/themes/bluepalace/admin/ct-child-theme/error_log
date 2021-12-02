@@ -1,0 +1,4 @@
+[26-Jan-2016 20:08:14 UTC] PHP Fatal error:  Call to undefined function esc_html() in /home/contempothemes/public_html/wp-real-estate-7/multi-demo/wp-content/themes/realestate-7/admin/ct-child-theme/child-theme-css.php on line 2
+[26-Jan-2016 20:08:15 UTC] PHP Fatal error:  Call to undefined function add_filter() in /home/contempothemes/public_html/wp-real-estate-7/multi-demo/wp-content/themes/realestate-7/admin/ct-child-theme/ct-child-theme.php on line 15
+[26-Jan-2016 20:08:16 UTC] PHP Fatal error:  Call to undefined function esc_html_e() in /home/contempothemes/public_html/wp-real-estate-7/multi-demo/wp-content/themes/realestate-7/admin/ct-child-theme/panel.php on line 11
+[26-Jan-2016 20:08:17 UTC] PHP Fatal error:  Call to undefined function esc_html() in /home/contempothemes/public_html/wp-real-estate-7/multi-demo/wp-content/themes/realestate-7/admin/ct-child-theme/rtl-css.php on line 2
